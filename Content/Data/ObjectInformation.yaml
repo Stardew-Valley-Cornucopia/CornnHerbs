@@ -694,43 +694,44 @@ content:  #!Dictionary<Int32,String>
     937: "Coconut Oil/225/5/Basic -26/Coconut Oil/A multi-purpose oil used in cooking and household products." #!String
     938: "Olive Oil/175/5/Basic -26/Olive Oil/A light vegetable oil often used for salads." #!String
     939: "Peanut Oil/120/5/Basic -26/Peanut Oil/An oil generally used in cooking or frying." #!String
-    940: "Avocado Eel Roll/0/0/Cooking -7/Avocado Eel Roll/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    941: "Baked Sweet Potato/0/0/Cooking -7/Baked Sweet Potato/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    942: "Banana Bread/0/0/Cooking -7/Banana Bread/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    943: "Banana Pudding/0/0/Cooking -7/Banana Pudding/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    944: "Brown Sugar/0/0/Cooking -7/Brown Sugar/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    945: "Carrot Cake/0/0/Cooking -7/Carrot Cake/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    946: "Cassava Cake/0/0/Cooking -7/Cassava Cake/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    947: "Chef Salad/0/0/Cooking -7/Chef Salad/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    948: "Chocolate/0/0/Cooking -7/Chocolate/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    949: "Chocolate Pudding/0/0/Cooking -7/Chocolate Pudding/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    950: "Chocolate Covered Strawberry/0/0/Cooking -7/Chocolate Covered Strawberry/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    951: "Crab Roll/0/0/Cooking -7/Crab Roll/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    952: "Cucumber Roll/0/0/Cooking -7/Cucumber Roll/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    953: "Cucumber Sandwich/0/0/Cooking -7/Cucumber Sandwich/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    954: "Island Salad/0/0/Cooking -7/Island Salad/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    955: "Farofa/0/0/Cooking -7/Farofa/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    956: "Fig Tart/0/0/Cooking -7/Fig Tart/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    957: "Melon Salad/0/0/Cooking -7/Melon Salad/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    958: "Poached Pear/0/0/Cooking -7/Poached Pear/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    959: "Rice Pilaf/0/0/Cooking -7/Rice Pilaf/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    960: "Sautéed Onions/0/0/Cooking -7/Sautéed Onions/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    961: "Stuffed Bell Peppers/0/0/Cooking -7/Stuffed Bell Peppers/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    962: "Sweet Potato Fries/0/0/Cooking -7/Sweet Potato Fries/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    963: "Tropical Fruit Salad/0/0/Cooking -7/Tropical Fruit Salad/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    964: "Vegetable Stir Fry/0/0/Cooking -7/Vegetable Stir Fry/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    940: "Avocado Eel Roll/220/40/Cooking -7/Avocado Eel Roll/Eel wrapped in seaweed and rice, topped with avocado./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    941: "Baked Sweet Potato/90/52/Cooking -7/Baked Sweet Potato/A simple baked sweet potato. Tasty on a cold day!/food/0 0 0 0 2 0 0 0 0 0 0/1440" #!String
+    942: "Banana Bread/155/50/Cooking -7/Banana Bread/It’s rich and moist!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    943: "Banana Pudding/130/70/Cooking -7/Banana Pudding/Add cookies for a tasty treat./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    944: "Brown Sugar/0/0/Cooking -7/Brown Sugar/It’s plain sugar mixed with molasses./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    945: "Carrot Cake/250/50/Cooking -7/Carrot Cake/A light and fluffy cake, it’s a spring treat./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    946: "Cassava Cake/150/86/Cooking -7/Cassava Cake/Delicious and custardy!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    947: "Chef Salad/110/45/Cooking -7/Chef Salad/The chef’s choice of salads./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    948: "Chocolate/100/60/Cooking -7/Chocolate/Decadent!/food/0 0 0 0 0 0 50 0 0 0 0/1440" #!String
+    949: "Chocolate Pudding/110/70/Cooking -7/Chocolate Pudding/A childhood favorite./food/0 0 0 0 0 0 50 0 0 0 0/1020" #!String
+    950: "Chocolate Covered Strawberry/150/85/Cooking -7/Chocolate Covered Strawberry/One step away from bliss!/food/0 0 0 3 0 0 50 0 0 0 0/1440" #!String
+    951: "Crab Roll/220/40/Cooking -7/Crab Roll/Imitation crab is for the weak./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    952: "Cucumber Roll/200/40/Cooking -7/Cucumber Roll/It’s like a vegetarian maki roll./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    953: "Cucumber Sandwich/65/20/Cooking -7/Cucumber Sandwich/A plain, refreshing tea sandwich./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    954: "Island Salad/110/45/Cooking -7/Island Salad/A refreshing salad made with lots of olives and dressed in vinegar./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    955: "Farofa/130/52/Cooking -7/Farofa/A toasted mix of ground cassava and other veggies./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    956: "Fig Tart/75/20/Cooking -7/Fig Tart/Simple snacks that beg you to eat more than one./food/2 0 0 0 0 0 0 0 0 0 0/600" #!String
+    957: "Melon Salad/125/45/Cooking -7/Melon Salad/A fruit salad consisting of tasty melons./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    958: "Poached Pear/250/60/Cooking -7/Poached Pear/Peeled pears drowned in honey./food/0 0 0 0 0 0 0 0 3 0 0/740" #!String
+    959: "Rice Pilaf/200/52/Cooking -7/Rice Pilaf/Spicy and southern!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    960: "Sautéed Onions/100/52/Cooking -7/Sautéed Onions/Often used as a side dish. Slimy, yet satisfying!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    961: "Stuffed Bell Peppers/200/52/Cooking -7/Stuffed Bell Peppers/Bell peppers stuffed with cheese./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    962: "Sweet Potato Fries/175/52/Cooking -7/Sweet Potato Fries/Like regular fries, only sweet./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    963: "Tropical Fruit Salad/110/45/Cooking -7/Tropical Fruit Salad/A medley of tropical fruits./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    964: "Vegetable Stir Fry/120/52/Cooking -7/Vegetable Stir Fry/Sauteed veggies./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     965: "Twine/20/-300/Basic -26/Twine/A loop of rough twine." #!String
     966: "Coalroot Seeds/15/-300/Seeds -74/Coalroot Seeds/Plant these in spring or summer. Takes 10 days to mature." #!String
     967: "Copperleaf Seeds/25/-300/Seeds -74/Copperleaf Seeds/Plant these in spring. Takes 10 days to mature." #!String
     968: "Ironleaf Seeds/50/-300/Seeds -74/Ironleaf Seeds/Plant these in summer. Takes 15 days to mature." #!String
     969: "Goldleaf Seeds/100/-300/Seeds -74/Goldleaf Seeds/Plant these in fall. Takes 20 days to mature." #!String
     970: "Iridium Fern Seeds/200/-300/Seeds -74/Iridium Fern Seeds/Plant these in winter. Takes 24 days to mature." #!String
-    972: "Raspberry Tart/0/0/Cooking -7/Raspberry Tart/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    973: "Gooseberry Pie/0/0/Cooking -7/Gooseberry Pie/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    974: "PB&J Sandwich/0/0/Cooking -7/PB & J/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    975: "Celery and Peanut Butter/0/0/Cooking -7/Celery and Peanut Butter/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    976: "Avocado Toast/0/0/Cooking -7/Avocado Toast/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    977: "Broccoli and Cheese/0/0/Cooking -7/Broccoli and Cheese/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    971: "Peanut Butter/160/15/Basic -26/Peanut Butter/The classic staple. Do you like smooth or crunchy?." #!String
+    972: "Raspberry Tart/75/20/Cooking -7/Raspberry Tart/A raspberry filled tart./food/2 0 0 0 0 0 0 0 0 0 0/600" #!String
+    973: "Gooseberry Pie/220/86/Cooking -7/Gooseberry Pie/A pie made from wild berries and topped with a streusel crumble./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    974: "PB&J Sandwich/70/20/Cooking -7/PB & J/The classic sandwich treat./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    975: "Celery and Peanut Butter/70/20/Cooking -7/Celery and Peanut Butter/An easy snack that’s light but savory./food/0 1 2 0 2 0 0 0 0 0 0/1040" #!String
+    976: "Avocado Toast/300/20/Cooking -7/Avocado Toast/You just don’t understand it!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    977: "Broccoli and Cheese/90/52/Cooking -7/Broccoli and Cheese/Steamed broccoli covered in gooey cheese./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     978: "Honeysuckle/165/-300/Basic -80/Honeysuckle/Fragrant yellow flowers with a sweet dew inside." #!String
     980: "Honeysuckle Seeds/50/-300/Seeds -74/Honeysuckle Seeds/Plant in spring. Takes 8 days to produce sweet smelling flowers, and keeps producing after the first harvest." #!String
     981: "Lavender/30/18/Basic -80/Lavender/Such a lovely smelling herb. So calming and relaxing." #!String
