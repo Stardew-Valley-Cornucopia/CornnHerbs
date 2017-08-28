@@ -1,0 +1,39 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.Int32Reader"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<Int32,String>
+    628: "7/spring/638/1700" #!String
+    629: "1/spring/634/1000" #!String
+    630: "2/summer/635/2000" #!String
+    631: "3/summer/636/3000" #!String
+    632: "4/fall/637/3000" #!String
+    633: "5/fall/613/2000" #!String
+    807: "2/spring/808/3000" #!String
+    819: "2/summer/818/3000" #!String
+    827: "2/spring/817/3000" #!String
+    828: "2/fall/812/3000" #!String
+    829: "2/summer/825/3000" #!String
+    841: "2/summer/840/3000" #!String
+    843: "2/summer/842/3000" #!String
+    851: "2/winter/850/3000" #!String
+    853: "2/winter/852/3000" #!String
+    855: "2/winter/854/3000" #!String
+    856: "2/spring/857/3000" #!String
