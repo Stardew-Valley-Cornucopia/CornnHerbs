@@ -750,9 +750,9 @@ content:  #!Dictionary<Int32,String>
     998: "Black Tea/125/55/Cooking -7/Black Tea/Brewed to perfection. The flavors of this tea are more pronounced without sugar!/drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     999: "Sweet Tea/200/50/Cooking -7/Sweet Tea/A refreshingly sweet drink. It'll give you a sugary rush./drink/0 0 2 0 0 0 0 0 0 1 0/430" #!String
     1000: "Fancy Sweet Tea/3500/45/Cooking -7/Fancy Sweet Tea/Black Tea sweetened with the finest ingredients in the world./drink/0 0 0 0 3 0 0 50 0 1 0/860" #!String
-    1001: "White Tea Bag Carton/800/-300/Crafting/Tea Bag Carton (White)/Locally grown and ready to serve tea." #!String
-    1002: "Green Tea Bag Carton/1200/-300/Crafting/Tea Bag Carton (Green)/Locally grown and ready to serve tea." #!String
-    1003: "Black Tea Bag Carton/4500/-300/Crafting/Tea Bag Carton (Black)/Locally grown and ready to serve tea." #!String
+    1001: "White Tea Bag Carton/800/-300/Crafting/White Tea Bag Carton/Locally grown and ready to serve tea." #!String
+    1002: "Green Tea Bag Carton/1200/-300/Crafting/Green Tea Bag Carton/Locally grown and ready to serve tea." #!String
+    1003: "Black Tea Bag Carton/4500/-300/Crafting/Black Tea Bag Carton/Locally grown and ready to serve tea." #!String
     1004: "Collectible Tea Box/7500/-300/Crafting/Collectible Tea Box/A collectible tea box made of hardwood and an assortment of teas." #!String
     1006: "Jasmine Seeds/20/-300/Seeds -74/Jasmine Seeds/Plant in fall. Takes 7 days to produce bright flowers." #!String
     1007: "Clary Sage Seeds/50/-300/Seeds -74/Clary Sage Seeds/Plant in summer. Takes 8 takes to produce purple-pink flowers." #!String
