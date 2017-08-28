@@ -754,7 +754,6 @@ content:  #!Dictionary<Int32,String>
     1002: "Green Tea Bag Carton/1200/-300/Crafting/Tea Bag Carton (Green)/Locally grown and ready to serve tea." #!String
     1003: "Black Tea Bag Carton/4500/-300/Crafting/Tea Bag Carton (Black)/Locally grown and ready to serve tea." #!String
     1004: "Collectible Tea Box/7500/-300/Crafting/Collectible Tea Box/A collectible tea box made of hardwood and an assortment of teas." #!String
-    1005: "Lilac Sapling/450/-300/Basic -74/Lilac Sapling/Takes 28 days to produce a mature Lilac tree. Blossoms in the summer. Only grows if the 8 surrounding \"tiles\" are empty." #!String
     1006: "Jasmine Seeds/20/-300/Seeds -74/Jasmine Seeds/Plant in fall. Takes 7 days to produce bright flowers." #!String
     1007: "Clary Sage Seeds/50/-300/Seeds -74/Clary Sage Seeds/Plant in summer. Takes 8 takes to produce purple-pink flowers." #!String
     1008: "Jasmine/95/18/Basic -80/Jasmine/These are sweet, highly scented flowers." #!String
@@ -763,11 +762,11 @@ content:  #!Dictionary<Int32,String>
     1013: "Melaleuca Sapling/1000/-300/Basic -74/Melaleuca Sapling/Takes 28 days to produce a mature Melaleuca tree. Ready to harvest in the spring. Only grows if the 8 surrounding \"tiles\" are empty." #!String
     1014: "Vanilla Seeds/55/-300/Seeds -74/Vanilla Seeds/Plant these in spring. Takes 4 days to mature, and keeps producing after the first harvest." #!String
     1015: "Ylang Ylang Sapling/700/-300/Basic -74/Ylang Ylang Sapling/Takes 28 days to produce a mature Ylang Ylang tree. Blossoms in the summer. Only grows if the 8 surrounding \"tiles\" are empty." #!String
-    1016: "Echinacea Seeds/40/-300/Seeds -74/Echinacea Seeds/Plant in fall. Takes 9 days to produce a purple flower." #!String
+    1016: "Purple Coneflower Seeds/40/-300/Seeds -74/Purple Coneflower Seeds/Plant in fall. Takes 9 days to produce a purple flower." #!String
     1017: "Passion Flower Seeds/45g/-300/Seeds -74/Passion Flower Seeds/Plant in summer. Takes 8 days to produce a lovely flower." #!String
     1018: "Vanilla Bean Pod/200/-300/Basic -75/Vanilla Bean Pod/Easily be one of the most well-known flavors in the world. Who’s hungry for ice cream?" #!String
     1019: "Ylang Ylang/75/18/Basic -80/Ylang Ylang/A highly appreciated flower in perfumery and aromatherapy." #!String
-    1021: "Echinacea/75/18/Basic -80/Echinacea/A lovely purple coneflower that’s pleasantly sweet." #!String
+    1021: "Purple Coneflower/75/18/Basic -80/Purple Coneflower/A lovely purple coneflower that’s pleasantly sweet. It is also known as echinacea and used to make a wonderful tea." #!String
     1023: "Passion Flower/160/18/Basic -80/Passion Flower/Gentle yet profound, this flower is cooling to the body, calming to the mind, and soothing to the spirit." #!String
     1025: "Camphor Leaves/100/-300/Basic -75/Camphor Leaves/Glossy oval leaves that are very fragrant when crushed." #!String
     1026: "Camphor Sapling/1000/-300/Basic -74/Camphor Sapling/Takes 28 days to produce a mature Camphor tree. Ready to harvest in the winter. Only grows if the 8 surrounding \"tiles\" are empty." #!String
