@@ -718,7 +718,7 @@ content:  #!Dictionary<Int32,String>
     961: "Stuffed Bell Peppers/200/52/Cooking -7/Stuffed Bell Peppers/Bell peppers stuffed with cheese./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     962: "Sweet Potato Fries/175/52/Cooking -7/Sweet Potato Fries/Like regular fries, only sweet./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     963: "Tropical Fruit Salad/110/45/Cooking -7/Tropical Fruit Salad/A medley of tropical fruits./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    964: "Vegetable Stir Fry/120/52/Cooking -7/Vegetable Stir Fry/Sauteed veggies./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    964: "Vegetable Stir Fry/120/52/Cooking -7/Vegetable Stir Fry/Sautéed veggies./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     965: "Twine/20/-300/Basic -26/Twine/A loop of rough twine." #!String
     966: "Coalroot Seeds/15/-300/Seeds -74/Coalroot Seeds/Plant these in spring or summer. Takes 10 days to mature." #!String
     967: "Copperleaf Seeds/25/-300/Seeds -74/Copperleaf Seeds/Plant these in spring. Takes 10 days to mature." #!String
