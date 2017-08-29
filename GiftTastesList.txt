@@ -2,12 +2,13 @@ Implemented:
 - Lavender
 
 
+---------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------------
 Lavender 981
   - Loves: Penny
   - Likes: Haley, Abigail, Emily, Jas, Harvey, Leah, Evelyn, Jodi, Linus, Pierre, Sandy, Wizard
-  - Dislkikes: Elliott, Sam, Sebastian, Shane, George, Krobus, Willy
+  - Neutral: Alex, Maru, Caroline, Clint, Demetrius, Dwarf, Gus, Kent, Lewis, Marnie, Pam, Robin, Vincent
+  - Dislikes: Elliott, Sam, Sebastian, Shane, George, Krobus, Willy
   - Hates:
 Chamomile 903
   - Loves: Caroline
