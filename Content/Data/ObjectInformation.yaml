@@ -698,7 +698,7 @@ content:  #!Dictionary<Int32,String>
     941: "Baked Sweet Potato/90/52/Cooking -7/Baked Sweet Potato/A simple baked sweet potato. Tasty on a cold day!/food/0 0 0 0 2 0 0 0 0 0 0/1440" #!String
     942: "Banana Bread/155/50/Cooking -7/Banana Bread/It’s rich and moist!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     943: "Banana Pudding/130/70/Cooking -7/Banana Pudding/Add cookies for a tasty treat./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    944: "Brown Sugar/0/0/Cooking -7/Brown Sugar/It’s plain sugar mixed with molasses./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    944: "Brown Sugar/75/10/Cooking -7/Brown Sugar/It’s plain sugar mixed with molasses./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     945: "Carrot Cake/250/50/Cooking -7/Carrot Cake/A light and fluffy cake, it’s a spring treat./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     946: "Cassava Cake/150/86/Cooking -7/Cassava Cake/Delicious and custardy!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     947: "Chef Salad/110/45/Cooking -7/Chef Salad/The chef’s choice of salads./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
