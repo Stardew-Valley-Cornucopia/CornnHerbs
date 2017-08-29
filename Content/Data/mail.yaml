@@ -161,7 +161,6 @@ content:  #!Dictionary<String,String>
     HarveyCooking: "Dear @, I want you try this recipe out! It helps me unwind in the evenings. Take care, ^   -Harvey%item cookingRecipe %%" #!String
     summer_4: "Dear @,^ My friend sent me a science package from the Botanical Heritage Foundation for my birthday. I think it'd be great if you grew some of these for the town!  ^   -Jas%item object 797 75 %%" #!String
     winter_23: "Dear @,^ I ordered some tea sprouts, but they sent me too many. So, I figured I'd share my birthday present with the town farmer. Hehe, enjoy! ^   -Leah%item object 797 75 %%" #!String
-    spring_3_1: "@,^ I hear you like exploring the mines. If you get scraped up, try putting some aloe on the wound. It'll soothe the pain right away. ^ -Harvey%item object 1040 2 %%" #!String
     spring_9_2: "@, ^ A Complete Breakfast is essential in training. Have you tried it with a glass of grapefruit juice? ^ I heard Pierre's started selling grapefruit saplings. If you grow some, maybe we can have breakfast together sometime. ^ -Alex" #!String
     spring_10_2: "@, Alex won't stop talking about grapefruits, but he's missing out. Pomelo is sweeter and makes a much better juice. Almost tastes like soda, if you ask me. ^ -Sam" #!String
     spring_13_2: "Dear @, ^ Have you tried using fennel in your cooking? I know you'll just love it. I have some extra seeds you can try. Let me know what you think. ^ -Jodi%item object 1027 3 %%" #!String
