@@ -114,8 +114,8 @@ content:  #!Dictionary<String,String>
     Vegetable Stir Fry: "815 1 281 1 868 1247 1 824 1/1 10/964/f Kent 5" #!String
     Raspberry Tart: "-5 1 900 1 246 1/1 10/972/f Robin 3" #!String
     Gooseberry Pie: "919 1 184 1 245 1 246 1/1 10/973/f Pierre 5" #!String
-    PB&J Sandwich: "216 1 344 1 873 1/1 10/974/s Farming 4" #!String
-    Celery and Peanut Butter: "895 1 873 1/1 10/975/s Combat 3" #!String
+    PB&J Sandwich: "216 1 344 1 971 1/1 10/974/s Farming 4" #!String
+    Celery and Peanut Butter: "895 1 971 1/1 10/975/s Combat 3" #!String
     Avocado Toast: "842 1 216 1/1 10/976/l 15" #!String
     Broccoli and Cheese: "891 1 424 1/1 10/977/f Pierre 7" #!String
     White Tea: "869 1/1 5/992/f Jodi 2" #!String
