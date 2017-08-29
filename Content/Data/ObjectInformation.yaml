@@ -580,7 +580,7 @@ content:  #!Dictionary<Int32,String>
     812: "Olive/50/12/Basic -75/Olive/It is packed with vitamins! Olives are used to make oil and salads." #!String
     813: "Lettuce/65/30/Basic -75/Lettuce/Watery. It is the basis for salads worldwide." #!String
     814: "Lettuce Seeds/30/-300/Seeds -74/Lettuce Seeds/Plant these in summer. Takes 6 days to mature." #!String
-    815: "Bell Pepper/70/8/Basic -75/Bell Pepper/The tamest pepper on the scale. A delicious addition to many meals!" #!String
+    815: "Bell Pepper/70/8/Basic -79/Bell Pepper/The tamest pepper on the scale. A delicious addition to many meals!" #!String
     816: "Bell Pepper Seeds/65/-300/Seeds -74/Bell Pepper Seeds/Plant these in fall. Takes 10 days to mature, and continues to produce after the first harvest." #!String
     817: "Lemon/50/15/Basic -79/Lemon/A tangy citrus fruit that is used to make lemonade." #!String
     818: "Papaya/135/15/Basic -79/Papaya/A tropical fruit from the rainforest. It has a sweet flavor and a lot of natural juiciness." #!String
