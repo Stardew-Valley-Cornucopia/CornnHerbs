@@ -1,9 +1,0 @@
-MCM mail and villager likes.
-Custom Maker products.
-Vanilla Maker products.
-Add Stardrop Saloon recipes to vendor list for Gus.
-Add where Tea Mod's recipes come from to spreadsheet/ensure it got ported.
-Touch-Up/Full Sprite Crops: Lavender, Lilac, Rose, Honeysuckle.
-Full Sprite Crops & Objects: Purple Coneflower, Fennel, Aloe, Jasmine, Clary Sage, Passion Flower, Passion Fruit, Vanilla, Thyme, Bee Balm, Elderberry
-Sprite Objects: Ylang Ylang, Melaleuca, Camphor, Eucalyptus, Cassia
-Sprite trees.
