@@ -797,17 +797,17 @@ content:  #!Dictionary<Int32,String>
     1050: "Passion Fruit Starter/65/-300/Seeds -74/Passion Fruit Starter/Plant these in spring. Takes 12 days to mature, but keeps producing after that. Grows on a trellis." #!String
     1051: "Passion Fruit/95/15/Basic -79/Passion Fruit/The passion fruit is a pepo, a type of berry, with a juicy interior filled with numerous seeds." #!String
     1052: "Butter/200/50/Basic -26/Butter/It's your basic butter." #!String
-    1053: "Goat Milk Butter/350/50/Basic -26/Sugar Beet/Soft butter made from goat’s milk." #!String
+    1053: "Goat Butter/350/50/Basic -26/Goat Butter/Soft butter made from goat’s milk." #!String
     1054: "Almond Butter/175/50/Basic -26/Almond Butter/A light, slightly gritty butter." #!String
-    1055: "Cashew Butter/175/50/Basic -26/Butter/A crunchy butter with bits of cashew inside." #!String
-    1056: "Coconut Butter/200/50/Basic -26/Butter/A light butter with a tropical scent." #!String
-    1057: "Cookie Butter/320/50/Basic -26/Butter/Cookies ground into a smooth, delicious paste." #!String
-    1058: "Hazelnut Butter/175/50/Basic -26/Butter/An irresistible, chocolate-flavored spread." #!String
+    1055: "Cashew Butter/175/50/Basic -26/Cashew Butter/A crunchy butter with bits of cashew inside." #!String
+    1056: "Coconut Butter/200/50/Basic -26/Coconut Butter/A light butter with a tropical scent." #!String
+    1057: "Cookie Butter/320/50/Basic -26/Cookie Butter/Cookies ground into a smooth, delicious paste." #!String
+    1058: "Hazelnut Butter/175/50/Basic -26/Hazelnut Butter/An irresistible, chocolate-flavored spread." #!String
     1059: "Peanut Butter/160/15/Basic -26/Peanut Butter/The classic staple. Do you like smooth or crunchy?." #!String
-    1060: "Slime Butter/100/50/Basic -26/Butter/A green butter made from slime..." #!String
-    1061: "Soynut Butter/175/50/Basic -26/Butter/A butter made of soybeans for individuals with lactose intolerance." #!String
-    1062: "Sunflower Butter/120/50/Basic -26/Butter/A peanut butter substitute with a sunny flavor." #!String
-    1063: "Walnut Butter/175/50/Basic -26/Butter/A crunchy butter with bits of walnut." #!String
+    1060: "Slime Butter/100/50/Basic -26/Slime Butter/A green butter made from slime..." #!String
+    1061: "Soynut Butter/175/50/Basic -26/Soynut Butter/A butter made of soybeans for individuals with lactose intolerance." #!String
+    1062: "Sunflower Butter/120/50/Basic -26/Sunflower Butter/A peanut butter substitute with a sunny flavor." #!String
+    1063: "Walnut Butter/175/50/Basic -26/Walnut Butter/A crunchy butter with bits of walnut." #!String
     1064: "Dried Fruit/160/60/Basic -26/Dried Fruit/A box of red dehydrated fruit." #!String
     1065: "Dried Fruit/160/60/Basic -26/Dried Fruit/A box of orange dehydrated fruit." #!String
     1066: "Dried Fruit/160/60/Basic -26/Dried Fruit/A box of yellow dehydrated fruit." #!String
