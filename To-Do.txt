@@ -1,6 +1,7 @@
 MCM mail and villager likes.
 Custom Maker products.
-Vanilla Maker products.
+Sprite Still, Spinning Wheel, Yogurt Jar, Enhanced Oil Maker, Wax Barrel, Foreign Cask.
+Sprite additional maker goods for these.
 Add Stardrop Saloon recipes to vendor list for Gus.
 Add where Tea Mod's recipes come from to spreadsheet/ensure it got ported.
 Touch-Up/Full Sprite Crops: Lavender, Lilac, Rose, Honeysuckle.
