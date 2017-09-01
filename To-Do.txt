@@ -1,4 +1,5 @@
-MCM mail and villager likes.
+MCM mail and villager likes (initial list complete)
+Add GiftTasteImplemented column to Google Doc to keep track
 Custom Maker products.
 Sprite Still, Spinning Wheel, Yogurt Jar, Enhanced Oil Maker, Wax Barrel, Foreign Cask.
 Sprite additional maker goods for these.
