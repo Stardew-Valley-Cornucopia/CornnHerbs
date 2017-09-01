@@ -681,6 +681,10 @@ content:  #!Dictionary<Int32,String>
     920: "Gooseberry Seeds/40/-300/Seeds -74/Gooseberry Seeds/Plant these in summer. Takes 13 days to mature, and keeps producing after the first harvest." #!String
     921: "Oregano/50/5/Basic -75/Oregano/A warm and aromatic, yet slightly bitter, herb in the mint family." #!String
     922: "Oregano Seeds/15/-300/Seeds -74/Oregano Seeds/Plant these in summer. Takes 4 days to mature." #!String
+    923: "Almond/90/12/Basic -81/Almond/A drupe consisting of an outer hull and a hard shell with the seed within." #!String
+    924: "Cashew/100/12/Basic -81/Cashew/A buttery nut that buds at the bottom of the cashew apple." #!String
+    925: "Walnut/90/12/Basic -81/Walnut/A nut that makes delicious candies and pies. It is often used in the filling of sweet treats." #!String
+    926: "Soybean/120/8/Basic -75/Soybean/Nutty in flavor. Its oil can be used in a plethora of products." #!String
     927: "Buckwheat Flour/100/5/Basic/Buckwheat Flour/A cooking ingredient made from crushed buckwheat seeds." #!String
     928: "Rice Flour/150/5/Basic/Rice Flour/A cooking ingredient made from milled rice." #!String
     929: "Ginger Ale/200/30/Basic -26/Ginger Ale/A light beverage often used to settle stomach aches./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
@@ -725,7 +729,6 @@ content:  #!Dictionary<Int32,String>
     968: "Ironleaf Seeds/50/-300/Seeds -74/Ironleaf Seeds/Plant these in summer. Takes 15 days to mature." #!String
     969: "Goldleaf Seeds/100/-300/Seeds -74/Goldleaf Seeds/Plant these in fall. Takes 20 days to mature." #!String
     970: "Iridium Fern Seeds/200/-300/Seeds -74/Iridium Fern Seeds/Plant these in winter. Takes 24 days to mature." #!String
-    971: "Peanut Butter/160/15/Basic -26/Peanut Butter/The classic staple. Do you like smooth or crunchy?." #!String
     972: "Raspberry Tart/75/20/Cooking -7/Raspberry Tart/A raspberry filled tart./food/2 0 0 0 0 0 0 0 0 0 0/600" #!String
     973: "Gooseberry Pie/220/86/Cooking -7/Gooseberry Pie/A pie made from wild berries and topped with a streusel crumble./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     974: "PB&J Sandwich/70/20/Cooking -7/PB & J/The classic sandwich treat./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
@@ -741,7 +744,7 @@ content:  #!Dictionary<Int32,String>
     987: "Wisteria/60/-300/Basic -80/Wisteria/An especially fragrant cluster of purple flowers." #!String
     988: "Wisteria Sapling/650/-300/Basic -74/Wisteria Sapling/Takes 28 days to produce a mature Wisteria tree. Blossoms in the spring. Only grows if the 8 surrounding \"tiles\" are empty." #!String
     989: "Rose/320/18/Basic -80/Rose/A rose by any other name would smell as sweet." #!String
-    991: "Rose Starter/200/-300/Seeds -74/Rose Starter/Plant in spring, summer, or fall. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest." #!String
+    991: "Rose Starter/200/-300/Seeds -74/Rose Starter/Plant in spring, summer, or fall. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis." #!String
     992: "White Tea/75/60/Cooking -7/White Tea/A lite brew of young tea leaves; has a fresh flavor./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     993: "Dandelion White Tea/135/70/Cooking -7/Dandelion White Tea/The fresh dandelion in this rejuvenates your senses./drink/0 0 0 0 0 1 0 0 0 0 0/430" #!String
     994: "Berry Surprise Tea/500/75/Cooking -7/Berry Surprise Tea/Infused with cross-season flavors; it's worth the wait!/drink/0 0 0 0 2 2 0 0 0 0 0/860" #!String
@@ -793,3 +796,86 @@ content:  #!Dictionary<Int32,String>
     1049: "Sugar Beet/0/8/Basic -75/Sugar Beet/" #!String
     1050: "Passion Fruit Starter/65/-300/Seeds -74/Passion Fruit Starter/Plant these in spring. Takes 12 days to mature, but keeps producing after that. Grows on a trellis." #!String
     1051: "Passion Fruit/95/15/Basic -79/Passion Fruit/The passion fruit is a pepo, a type of berry, with a juicy interior filled with numerous seeds." #!String
+    1052: "Butter/200/50/Basic -26/Butter/It's your basic butter." #!String
+    1053: "Goat Butter/350/50/Basic -26/Goat Butter/Soft butter made from goat’s milk." #!String
+    1054: "Almond Butter/175/50/Basic -26/Almond Butter/A light, slightly gritty butter." #!String
+    1055: "Cashew Butter/175/50/Basic -26/Cashew Butter/A crunchy butter with bits of cashew inside." #!String
+    1056: "Coconut Butter/200/50/Basic -26/Coconut Butter/A light butter with a tropical scent." #!String
+    1057: "Cookie Butter/320/50/Basic -26/Cookie Butter/Cookies ground into a smooth, delicious paste." #!String
+    1058: "Hazelnut Butter/175/50/Basic -26/Hazelnut Butter/An irresistible, chocolate-flavored spread." #!String
+    1059: "Peanut Butter/160/15/Basic -26/Peanut Butter/The classic staple. Do you like smooth or crunchy?." #!String
+    1060: "Slime Butter/100/50/Basic -26/Slime Butter/A green butter made from slime..." #!String
+    1061: "Soynut Butter/175/50/Basic -26/Soynut Butter/A butter made of soybeans for individuals with lactose intolerance." #!String
+    1062: "Sunflower Butter/120/50/Basic -26/Sunflower Butter/A peanut butter substitute with a sunny flavor." #!String
+    1063: "Walnut Butter/175/50/Basic -26/Walnut Butter/A crunchy butter with bits of walnut." #!String
+    1064: "Dried Fruit/160/60/Basic -26/Dried Fruit/A box of red dehydrated fruit." #!String
+    1065: "Dried Fruit/160/60/Basic -26/Dried Fruit/A box of orange dehydrated fruit." #!String
+    1066: "Dried Fruit/160/60/Basic -26/Dried Fruit/A box of yellow dehydrated fruit." #!String
+    1067: "Dried Fruit/160/60/Basic -26/Dried Fruit/A box of green dehydrated fruit." #!String
+    1068: "Dried Fruit/160/60/Basic -26/Dried Fruit/A box of blue dehydrated fruit." #!String
+    1069: "Dried Fruit/160/60/Basic -26/Dried Fruit/A box of purple dehydrated fruit." #!String
+    1070: "Dried Fruit/160/60/Basic -26/Dried Fruit/A box of pink dehydrated fruit." #!String
+    1071: "Dried Fruit/160/60/Basic -26/Dried Fruit/A box of gray dehydrated fruit." #!String
+    1072: "Dried Flower/100/-300/Basic -26/Dried Flower/A bundle of dried red flowers." #!String
+    1073: "Dried Flower/100/-300/Basic -26/Dried Flower/A bundle of dried orange flowers." #!String
+    1074: "Dried Flower/100/-300/Basic -26/Dried Flower/A bundle of dried yellow flowers." #!String
+    1075: "Dried Flower/100/-300/Basic -26/Dried Flower/A bundle of dried green flowers." #!String
+    1076: "Dried Flower/100/-300/Basic -26/Dried Flower/A bundle of dried blue flowers." #!String
+    1077: "Dried Flower/100/-300/Basic -26/Dried Flower/A bundle of dried purple flowers." #!String
+    1078: "Dried Flower/100/-300/Basic -26/Dried Flower/A bundle of dried pink flowers." #!String
+    1079: "Dried Flower/100/-300/Basic -26/Dried Flower/A bundle of dried black flowers." #!String
+    1080: "Raisins/160/60/Basic -26/Raisins/Dried grapes that make for a tasty snack!" #!String
+    1081: "Dried Herb/80/-300/Basic -26/Dried Herb/A bundle of dried red herbs." #!String
+    1082: "Dried Herb/80/-300/Basic -26/Dried Herb/A bundle of dried orange herbs." #!String
+    1083: "Dried Herb/80/-300/Basic -26/Dried Herb/A bundle of dried yellow herbs." #!String
+    1084: "Dried Herb/80/-300/Basic -26/Dried Herb/A bundle of dried yellow-green herbs." #!String
+    1085: "Dried Herb/80/-300/Basic -26/Dried Herb/A bundle of dried green herbs." #!String
+    1086: "Dried Herb/80/-300/Basic -26/Dried Herb/A bundle of dried blue-green herbs." #!String
+    1087: "Dried Herb/80/-300/Basic -26/Dried Herb/A bundle of dried brown herbs." #!String
+    1088: "Dried Herb/80/-300/Basic -26/Dried Herb/A bundle of dried gray herbs." #!String
+    1089: "Dried Vegetable/160/60/Basic -26/Dried Vegetable/A sack of dried red vegetables." #!String
+    1090: "Dried Vegetable/160/60/Basic -26/Dried Vegetable/A sack of dried orange vegetables." #!String
+    1091: "Dried Vegetable/160/60/Basic -26/Dried Vegetable/A sack of dried yellow vegetables." #!String
+    1092: "Dried Vegetable/160/60/Basic -26/Dried Vegetable/A sack of dried yellow-green vegetables." #!String
+    1093: "Dried Vegetable/160/60/Basic -26/Dried Vegetable/A sack of dried green vegetables." #!String
+    1094: "Dried Vegetable/160/60/Basic -26/Dried Vegetable/A sack of dried purple vegetables." #!String
+    1095: "Dried Vegetable/160/60/Basic -26/Dried Vegetable/A sack of dried brown vegetables." #!String
+    1096: "Dried Vegetable/160/60/Basic -26/Dried Vegetable/A sack of dried gray vegetables." #!String
+    1097: "Beeswax/350/-300/Basic -26/Beeswax/Wax used to bind goods and make numerous products." #!String
+    1098: "Chewing Gum/350/80/Basic -26/Chewing Gum/The worldwide phenomenon." #!String
+    1099: "Buckwheat Noodles/275/-300/Basic -26/Buckwheat Noodles/A bag of coarse, earthy-flavored noodles." #!String
+    1100: "Rice Noodles/300/-300/Basic -26/Rice Noodles/A bag of thin, rice-flavored noodles." #!String
+    1101: "Wheat Noodles/150/-300/Basic -26/Wheat Noodles/A bag of robust noodles used throughout the world for a multitude of meals." #!String
+    1102: "Saffron/250/-300/Basic -26/Saffron/A rare and valued spice." #!String
+    1103: "Wasabi Paste/80/60/Basic -26/Wasabi Paste/When made fresh, it doesn't last for long." #!String
+    1104: "Ground Herb/120/-300/Basic -26/Ground Herb/A spice jar of ground red herbs." #!String
+    1105: "Ground Herb/120/-300/Basic -26/Ground Herb/A spice jar of ground orange herbs." #!String
+    1106: "Ground Herb/120/-300/Basic -26/Ground Herb/A spice jar of ground yellow herbs." #!String
+    1107: "Ground Herb/120/-300/Basic -26/Ground Herb/A spice jar of ground yellow-green herbs." #!String
+    1108: "Ground Herb/120/-300/Basic -26/Ground Herb/A spice jar of ground green herbs." #!String
+    1109: "Ground Herb/120/-300/Basic -26/Ground Herb/A spice jar of ground blue-green herbs." #!String
+    1110: "Ground Herb/120/-300/Basic -26/Ground Herb/A spice jar of ground brown herbs." #!String
+    1111: "Ground Herb/120/-300/Basic -26/Ground Herb/A spice jar of ground gray herbs." #!String
+    1112: "Ground Vegetable/160/-300/Basic -26/Ground Vegetable/A jar of ground red vegetables." #!String
+    1113: "Ground Vegetable/160/-300/Basic -26/Ground Vegetable/A jar of ground orange vegetables." #!String
+    1114: "Ground Vegetable/160/-300/Basic -26/Ground Vegetable/A jar of ground yellow vegetables." #!String
+    1115: "Ground Vegetable/160/-300/Basic -26/Ground Vegetable/A jar of ground yellow-green vegetables." #!String
+    1116: "Ground Vegetable/160/-300/Basic -26/Ground Vegetable/A jar of ground green vegetables." #!String
+    1117: "Ground Vegetable/160/-300/Basic -26/Ground Vegetable/A jar of ground purple vegetables." #!String
+    1118: "Ground Vegetable/160/-300/Basic -26/Ground Vegetable/A jar of ground brown vegetables." #!String
+    1119: "Ground Vegetable/160/-300/Basic -26/Ground Vegetable/A jar of ground gray vegetables." #!String
+    1120: "Kombucha/150/40/Basic -26/Kombucha/A tea-like drink made from fermented mushrooms./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    1121: "Morel Kombucha/200/40/Basic -26/Morel Kombucha/A uniquely nutty tea-like drink made from fermented mushrooms./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    1122: "Chanterelle Kombucha/300/40/Basic -26/Chanterelle Kombucha/A fruity, slightly peppery tea-like drink made from fermented mushrooms. /drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    1123: "Red Kombucha/150/40/Basic -26/Red Kombucha/Red A cautionary tale in kombucha recipes./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    1124: "Essential Oil/200/-300/Basic -26/Essential Oil/A concentrated red liquid containing the aroma compounds of a plant." #!String
+    1125: "Essential Oil/200/-300/Basic -26/Essential Oil/A concentrated orange liquid containing the aroma compounds of a plant." #!String
+    1126: "Essential Oil/200/-300/Basic -26/Essential Oil/A concentrated yellow liquid containing the aroma compounds of a plant." #!String
+    1127: "Essential Oil/200/-300/Basic -26/Essential Oil/A concentrated green liquid containing the aroma compounds of a plant." #!String
+    1128: "Essential Oil/200/-300/Basic -26/Essential Oil/A concentrated blue liquid containing the aroma compounds of a plant." #!String
+    1129: "Essential Oil/200/-300/Basic -26/Essential Oil/A concentrated purple liquid containing the aroma compounds of a plant." #!String
+    1130: "Essential Oil/200/-300/Basic -26/Essential Oil/A concentrated pink liquid containing the aroma compounds of a plant." #!String
+    1131: "Essential Oil/200/-300/Basic -26/Essential Oil/A concentrated brown liquid containing the aroma compounds of a plant." #!String
+    1132: "Purple Kombucha/300/40/Basic -26/Purple Kombucha/A purple tea-like drink made from fermented mushrooms./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    1133: "Kimchi/250/20/Basic -26/Kimchi/Most commonly made from cabbage mixed with spicy seasonings." #!String
+    1134: "Miso Paste/200/-300/Basic -26/Miso Paste/A paste made from soybeans. Used to make soup." #!String
