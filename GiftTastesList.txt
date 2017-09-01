@@ -1,3 +1,5 @@
+* Denotes classification inherited from base game
+
 Implemented:
 - Lavender
 - Chamomile
@@ -5,8 +7,9 @@ Implemented:
 ---------------------------------------------------------------------------
 
 Lavender 981
+  *Universal Like (flower)
   - Loves: Penny
-  - Likes: Haley, Abigail, Emily, Jas, Harvey, Leah, Evelyn, Jodi, Linus, Pierre, Sandy, Wizard
+  - Likes:
   - Neutral: Alex, Maru, Caroline, Clint, Demetrius, Dwarf, Gus, Kent, Lewis, Marnie, Pam, Robin, Vincent
   - Dislikes: Elliott, Sam, Sebastian, Shane, George, Krobus, Willy
   - Hates:
@@ -23,20 +26,23 @@ Mint 911
   - Dislkikes: Krobus
   - Hates:
 Honeysuckle Flower 978
+  * Universal Like (flower)
   - Loves: Leah
-  - Universal_Like
+  - Like:
   - Neutral:
   - Dislkikes:
   - Hates:
 Lilac Flower 984
+  * Universal Like (flower)
   - Loves: Emily, Abigail
-  - Universal_Like
+  - Like
   - Neutral:
   - Dislkikes:
   - Hates:
 Wisteria 987
+  * Universal Like (flower)
   - Loves: Abigail
-  - Universal_Like
+  - Like
   - Neutral:
   - Dislkikes:
   - Hates:
@@ -45,8 +51,9 @@ Rose Blossoms 989
   - Neutral: Abigail
   - Hates: Clint
 Jasmine Flowers 1008
+  * Universal Like (flower)
   - Loves:
-  - Universal_Like
+  - Like
   - Neutral: Abigail
   - Dislkikes:
   - Hates:
@@ -68,13 +75,13 @@ Rosemary 917
   - Universal_Neutral
   - Dislkikes:
   - Hates: Haley
-# Melaleuca Leaves 1012
-#   - Loves: Marnie
-#   - Likes: Leah, Linus, Harvey, Maru, Demetrius
-#   - Neutral:
-#   - Universal_Dislike
-#   - Hates:
-Vanilla Bean Pods 1018
+ Melaleuca Leaves 1012
+  - Loves: Marnie
+  - Likes: Leah, Linus, Harvey, Maru, Demetrius
+  - Neutral:
+  - Universal_Dislike
+  - Hates:
+Vanilla 1018
   - Loves:
   - Universal_Like
   - Neutral:
@@ -93,14 +100,16 @@ Sage Leaves 909
   - Dislkikes:
   - Hates:
 Echinacea Flowers 1021
+  * Universal Lile (flower)
   - Loves: Sandy
-  - Universal_Like
+  - Like:
   - Neutral:
   - Dislkikes:
   - Hates:
 Passion Flower 1023
+  * Universal Like (flower)
   - Loves: Clint
-  - Universal_Like
+  - Like:
   - Neutral:
   - Dislkikes:
   - Hates: Emily
@@ -125,12 +134,13 @@ Thyme Leaves 1033
 Elder Berries 1034
   - Loves: Linus
   - Likes: Leah, Harvey, Abigail, Demetrius, Jodi, Kent, Pam, Robin, Sandy
-  - Neutral: Alex, Emily, Penny, Caroline, Clint, Dwarf, Evelyn, George, Gus, Krobus, Lewis, Marnie, Pierre, Willy, Wizard
+  - Univeral Neutral
   - Dislkikes: Elliott, Sam, Sebastian, Shane, Haley, Maru, Jas, Vincent
   - Hates:
 Bee Balm Flowers 1035
+  * Unviersal Like (flower)
   - Loves:
-  - Universal_Like
+  - Like
   - Neutral:
   - Dislkikes:
   - Hates:
@@ -165,18 +175,23 @@ Cinnamon Sticks 1042
   - Dislkikes:
   - Hates:
 Grapefruit 1043
+  * Univeral Like (fruit tree)
   - Loves: Alex
-  - Universal_Like
+  - Like:
   - Neutral:
   - Dislkikes:
   - Hates:
 Pomelo 1044
+  * Univeral Like (fruit tree)
   - Loves: Sam
-  - Universal_Like
+  - Like
   - Neutral: Alex
   - Dislkikes:
   - Hates:
 
+
+---------------------------------------------------
+Characters: 
     # Robin:
     # Demetrius:
     # Maru:
