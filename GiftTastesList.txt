@@ -1,9 +1,35 @@
 * Denotes classification inherited from base game
 
 Implemented:
-- Lavender
+- Lavender (fixed)
 - Chamomile
-
+- Mint
+- Honeysuckle
+- Lilac
+- Wisteria
+- Rose
+- Jasmine
+- Clary Sage
+- Ginger
+- Rosemary
+- Melaleuca
+- Vanilla
+- Ylang Ylang
+- Sage Leaves
+- Echinacea
+- Passion Flower
+- Camphor Leaf
+- Fennel
+- Thyme
+- Elderberries
+- Bee Balm
+- Oregano
+- Eucalyptus
+- Basil
+- Aloe
+- Cinnamon
+- Grapefruit
+- Pomelo
 ---------------------------------------------------------------------------
 
 Lavender 981
@@ -100,7 +126,7 @@ Sage Leaves 909
   - Dislkikes:
   - Hates:
 Echinacea Flowers 1021
-  * Universal Lile (flower)
+  * Universal Like (flower)
   - Loves: Sandy
   - Like:
   - Neutral:
@@ -185,13 +211,13 @@ Pomelo 1044
   * Univeral Like (fruit tree)
   - Loves: Sam
   - Like
-  - Neutral: Alex
+  - Neutral:
   - Dislkikes:
   - Hates:
 
 
 ---------------------------------------------------
-Characters: 
+Characters:
     # Robin:
     # Demetrius:
     # Maru:
