@@ -111,7 +111,7 @@ content:  #!Dictionary<String,String>
     Stuffed Bell Peppers: "815 2 424 1 260 1 423 1/1 10/961/f Shane 5" #!String
     Sweet Potato Fries: "844 2 247 1/1 10/962/f Pam 5" #!String
     Tropical Fruit Salad: "825 1 840 1 818 1 854 1 832 1/1 10/963/f Lewis 5" #!String
-    Vegetable Stir Fry: "815 1 281 1 868 1247 1 824 1/1 10/964/f Kent 5" #!String
+    Vegetable Stir Fry: "815 1 281 1 868 1 1247 1 824 1/1 10/964/f Kent 5" #!String
     Raspberry Tart: "-5 1 900 1 246 1/1 10/972/f Robin 3" #!String
     Gooseberry Pie: "919 1 184 1 245 1 246 1/1 10/973/f Pierre 5" #!String
     PB&J Sandwich: "216 1 344 1 1059 1/1 10/974/s Farming 4" #!String
