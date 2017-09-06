@@ -1,11 +1,13 @@
+Current Release:
 MCM mail and villager likes (initial list complete)
 Add GiftTasteImplemented column to Google Doc to keep track
-Custom Maker products.
-Sprite Still, Spinning Wheel, Yogurt Jar, Enhanced Oil Maker, Wax Barrel, Foreign Cask.
-Sprite additional maker goods for these.
+Sprite: Still, Spinning Wheel, Foreign Cask, Enhanced Oil Maker
 Add Stardrop Saloon recipes to vendor list for Gus.
+Add meat products to vender list for Gus.
 Add where Tea Mod's recipes come from to spreadsheet/ensure it got ported.
-Touch-Up/Full Sprite Crops: Lavender, Lilac, Rose, Honeysuckle.
-Full Sprite Crops & Objects: Purple Coneflower, Fennel, Aloe, Jasmine, Clary Sage, Passion Flower, Passion Fruit, Vanilla, Thyme, Bee Balm, Elderberry
-Sprite Objects: Ylang Ylang, Melaleuca, Camphor, Eucalyptus, Cassia
+Full Sprite Crops: Vanilla
+
+Next Release:
+Sprite & Implement: Yogurt Jar, Wax Barrel
+Sprite remaining maker goods.
 Sprite trees.
