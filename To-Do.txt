@@ -2,7 +2,6 @@ Current Release:
 MCM mail and villager likes (initial list complete)
 Add GiftTasteImplemented column to Google Doc to keep track
 Sprite: Still, Spinning Wheel, Foreign Cask, Enhanced Oil Maker
-Add Stardrop Saloon recipes to vendor list for Gus.
 Add where Tea Mod's recipes come from to spreadsheet/ensure it got ported.
 Full Sprite Crops: Vanilla
 
@@ -11,3 +10,8 @@ Sprite & Implement: Yogurt Jar, Wax Barrel
 Sprite remaining maker goods.
 Sprite trees.
 Bundles including new crops.
+
+In the Future:
+Figure out how to have maker goods have unique descriptions.
+Figure out how to lock makers behind skill levels.
+Add Stardrop Saloon recipes to vendor list for Gus.
