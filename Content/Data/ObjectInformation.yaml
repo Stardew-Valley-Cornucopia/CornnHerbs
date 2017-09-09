@@ -791,7 +791,7 @@ content:  #!Dictionary<Int32,String>
     1038: "Eucalyptus Leaves/135/-300/Basic -81/Eucalyptus Leaves/Leathery blue-green leaves are studded with glands containing a fragrant, volatile oil. Luckily not an exploding oil!" #!String
     1039: "Eucalyptus Sapling/1375/-300/Basic -74/Eucalyptus Sapling/Takes 28 days to produce a mature Eucalyptus tree. Ready to harvest in the spring. Only grows if the 8 surrounding \"tiles\" are empty." #!String
     1040: "Aloe Pod/50/-300/Seeds -74/Aloe Pod/Plant these in summer. Takes 4 days to mature." #!String
-    1041: "Aloe/140/20/Basic -81Aloe/Aloe has long been an important and indispensable ally for emollient and moisturizing skin care. Great for healing sick burns." #!String
+    1041: "Aloe/140/20/Basic -81/Aloe/Aloe has long been an important and indispensable ally for emollient and moisturizing skin care. Great for healing sick burns." #!String
     1042: "Cinnamon Sticks/140/-300/Basic -81/Cinnamon Sticks/Its scent is uniquely warming, uplifting, and stimulating, and its flavor sweet and delicious." #!String
     1043: "Grapefruit/140/15/Basic -79/Grapefruit/A large bitter fruit, high in Vitamin C. Are you a salty or sugary kind of person?" #!String
     1044: "Pomelo/80/15/Basic -79/Pomelo/A really large, not so bitter, cousin of the grapefruit." #!String
