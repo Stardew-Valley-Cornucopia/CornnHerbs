@@ -10,3 +10,4 @@ Next Release:
 Sprite & Implement: Yogurt Jar, Wax Barrel
 Sprite remaining maker goods.
 Sprite trees.
+Bundles including new crops.
