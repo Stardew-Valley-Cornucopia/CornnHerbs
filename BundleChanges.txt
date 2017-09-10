@@ -1,3 +1,5 @@
+// Possibly change foraging to flowers // 
+
 Spring Foraging 
 - Leek -> Parsley 
 
@@ -10,8 +12,11 @@ Fall Foraging
 Winter Foraging 
 - Crocus -> Mint
 
+Construction Bundle
+- Wood (99) -> Twine (5)
+
 Exotic Foraging
-* Autumn's Bounty (5) -> 
+* Autumn's Bounty (5) -> Poached Pear
 
 Spring Crops
 - Green Bean -> Basil
@@ -22,19 +27,37 @@ Summer Crops
 Fall Crops
 - Yam -> Sweet Potato
 
+Quality Crops 
+- Pumpkin -> Carrot
+
+Animal Bundle 
+- Large Goat Milk -> Goat Butter
+
 Artisan Bundle
 - Truffle Oil -> Pink Essential Oil
+- Cloth -> Thread
 
 Specialty Fish Bundle 
-* Dish o' the Sea (5) -> 
+* Dish o' the Sea (5) -> Avocado Eel Roll (5)
+
+Geologist's Bundle 
+* Omni Geode (5) -> Iridium Fern (2)
 
 Chef's Bundle 
 - Poppy -> Rose
 - Maki Roll -> Black Tea
+* Pink Cake (3) -> Carrot Cake (5)
 
 Dye Bundle
-- Honeysuckle
-- Juniper 
+- Sunflower -> Honeysuckle
+- Red Cabbage -> Juniper (allows for guaranteed Winter 1 completion)
 
 Fodder Bundle
-- Apple -> Melaleuca
+- Apple (3) -> Melaleuca (3)
+
+Enchanter's Bundle
+- Wine -> Rum
+* Gold Bar (5) -> Beefvine (3)
+
+2500 Bundle 
+- Chocolate Cake (3) -> Chocolate Covered Strawberries (4)
