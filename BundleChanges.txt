@@ -1,0 +1,40 @@
+Spring Foraging 
+- Leek -> Parsley 
+
+Summer Foraging 
+- Spice Berry -> Chives
+
+Fall Foraging 
+- Blackberry -> Rosemary
+
+Winter Foraging 
+- Crocus -> Mint
+
+Exotic Foraging
+* Autumn's Bounty (5) -> 
+
+Spring Crops
+- Green Bean -> Basil
+
+Summer Crops
+- Tomato -> Lettuce
+
+Fall Crops
+- Yam -> Sweet Potato
+
+Artisan Bundle
+- Truffle Oil -> Pink Essential Oil
+
+Specialty Fish Bundle 
+* Dish o' the Sea (5) -> 
+
+Chef's Bundle 
+- Poppy -> Rose
+- Maki Roll -> Black Tea
+
+Dye Bundle
+- Honeysuckle
+- Juniper 
+
+Fodder Bundle
+- Apple -> Melaleuca
