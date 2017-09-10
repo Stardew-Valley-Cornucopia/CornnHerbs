@@ -456,6 +456,7 @@ content:  #!Dictionary<Int32,String>
     593: "Summer Spangle/90/18/Basic -80/Summer Spangle/A tropical bloom that thrives in the humid summer air. Has a sweet, tangy aroma." #!String
     595: "Fairy Rose/290/18/Basic -80/Fairy Rose/An old folk legend suggests that the sweet smell of this flower attracts fairies." #!String
     597: "Blue Jazz/50/18/Basic -80/Blue Jazz/The flower grows in a sphere to invite as many butterflies as possible." #!String
+    598: "Poulet/60/-300/Basic -26/Poulet/A whole chicken, ready for cooking." #!String
     599: "Sprinkler/100/-300/Crafting -8/Sprinkler/Waters the 4 adjacent tiles every morning." #!String
     604: "Plum Pudding/260/70/Cooking -7/Plum Pudding/A traditional holiday treat./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     605: "Artichoke Dip/210/40/Cooking -7/Artichoke Dip/It's cool and refreshing./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
@@ -480,6 +481,12 @@ content:  #!Dictionary<Int32,String>
     636: "Peach/140/15/Basic -79/Peach/It's almost fuzzy to the touch." #!String
     637: "Pomegranate/140/15/Basic -79/Pomegranate/Within the fruit are clusters of juicy seeds." #!String
     638: "Cherry/80/15/Basic -79/Cherry/It's popular, and ripens sooner than most other fruits." #!String
+    639: "Beef/75/-300/Basic -26/Beef/A thick, juicy slab of beef." #!String
+    640: "Mutton/100/-300/Basic -26/Mutton/A rich, tough cut from a sheep." #!String
+    641: "Pork/80/-300/Basic -26/Pork/A fatty cut of pork." #!String
+    642: "Chevon/100/-300/Basic -26/Chevon/A lean cut from a goat." #!String
+    643: "Canard/85/-300/Basic -26/Canard/A drumstick from a duck." #!String
+    644: "Lapin/50/-300/Basic -26/Lapin/A gamey cut from a rabbit." #!String
     645: "Iridium Sprinkler/1000/-300/Crafting -8/Iridium Sprinkler/Waters the 24 adjacent tiles every morning." #!String
     648: "Coleslaw/345/85/Cooking -7/Coleslaw/It's light, fresh and very healthy./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     649: "Fiddlehead Risotto/350/90/Cooking -7/Fiddlehead Risotto/A creamy rice dish served with sauteed fern heads. It's a little bland./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
@@ -572,9 +579,8 @@ content:  #!Dictionary<Int32,String>
     794: "Weeds/0/15/Basic/Weeds/Ugly weeds." #!String
     795: "Void Salmon/150/25/Fish -4/Void Salmon/A salmon, twisted by void energy. The fresh meat is jet black, but rapidly turns pink when exposed to air./Day^Spring Summer" #!String
     796: "Slimejack/100/15/Fish -4/Slimejack/He's coated in a very thick layer of slime. He keeps slipping out of your hands!/Day^Spring Summer" #!String
-    802: "Beef/75/-300/Basic -26/Beef/A thick, juicy slab of beef." #!String
     807: "Cocoa Sapling/1250/-300/Basic -74/Cocoa Sapling/Takes 28 days to produce a mature Cocoa tree. Bears fruit in the spring. Only grows if the 8 surrounding \"tiles\" are empty." #!String
-    808: "Cocoa Pod/125/-300/Basic -75/Cocoa Pod/The pod obtained from a cocoa tree. Mmm! Who's ready to make some chocolate?" #!String
+    808: "Cocoa Pod/125/-300/Basic -81/Cocoa Pod/The pod obtained from a cocoa tree. Mmm! Who's ready to make some chocolate?" #!String
     809: "Violet/45/18/Basic -80/Violet/A small purple flower that favors the shade." #!String
     811: "Violet Seeds/15/-300/Seeds -74/Violet Seeds/Plant in spring. Takes 8 days to produce a rich purple flower." #!String
     812: "Olive/50/12/Basic -75/Olive/It is packed with vitamins! Olives are used to make oil and salads." #!String
@@ -661,25 +667,25 @@ content:  #!Dictionary<Int32,String>
     900: "Raspberry/30/15/Basic -79/Raspberry/An extremely tart berry that has a warm glow." #!String
     901: "Raspberry Seeds/30/-300/Seeds -74/Raspberry Seeds/Plant these in summer. Takes 10 days to mature, and keeps producing after the first harvest." #!String
     902: "Blackberry Seeds/30/-300/Seeds -74/Blackberry Seeds/Plant these in fall. Takes 10 days to mature, and keeps producing after the first harvest." #!String
-    903: "Chamomile/45/18/Basic -75/Chamomile/White, daisy-like flowers with a scent reminiscent of apples or pineapple." #!String
+    903: "Chamomile/45/18/Basic -81/Chamomile/White, daisy-like flowers with a scent reminiscent of apples or pineapple." #!String
     904: "Chamomile Seeds/15/-300/Seeds -74/Chamomile Seeds/Plant these in spring. Takes 5 days to mature." #!String
-    905: "Chives/35/5/Basic -75/Chives/A small relative of the spring onion. It is often used in cooking and has a slightly sweet flavor." #!String
+    905: "Chives/35/5/Basic -81/Chives/A small relative of the spring onion. It is often used in cooking and has a slightly sweet flavor." #!String
     906: "Chive Seeds/10/-300/Seeds -74/Chive Seeds/Plant these in summer. Takes 5 days to mature." #!String
-    907: "Basil/35/5/Basic -75/Basil/Generally speaking, the herb is sweet, slightly minty and slightly peppery." #!String
+    907: "Basil/35/5/Basic -81/Basil/Generally speaking, the herb is sweet, slightly minty and slightly peppery." #!String
     908: "Basil Seeds/10/-300/Seeds -74/Basil Seeds/Plant these in spring. Takes 5 days to mature." #!String
-    909: "Sage/70/5/Basic -75/Sage/Burned ceremonially to cleanse the spirit and welcome positive thoughts." #!String
+    909: "Sage/70/5/Basic -81/Sage/Burned ceremonially to cleanse the spirit and welcome positive thoughts." #!String
     910: "Sage Seeds/20/-300/Seeds -74/Sage Seeds/Plant these in fall. Takes 5 days to mature." #!String
-    911: "Mint/50/8/Basic -75/Mint/The world's most familiar mint scent is the aroma of peppermint." #!String
+    911: "Mint/50/8/Basic -81/Mint/The world's most familiar mint scent is the aroma of peppermint." #!String
     912: "Mint Seeds/15/-300/Seeds -74/Mint Seeds/Plant these in winter. Takes 4 days to mature." #!String
-    913: "Parsley/45/5/Basic -75/Parsley/A leafy green that is used as an accent in food presentation." #!String
+    913: "Parsley/45/5/Basic -81/Parsley/A leafy green that is used as an accent in food presentation." #!String
     914: "Parsley Seeds/15/-300/Seeds -74/Parsley Seeds/Plant these in spring. Takes 4 days to mature." #!String
-    915: "Ginger/80/8/Basic -75/Ginger/It is a flavoring agent in beer, soft drinks, candies, and a staple spice and condiment in many countries." #!String
+    915: "Ginger/80/8/Basic -81/Ginger/It is a flavoring agent in beer, soft drinks, candies, and a staple spice and condiment in many countries." #!String
     916: "Ginger Bulb/50/-300/Seeds -74/Ginger Bulb/Plant these in fall. Takes 7 days to mature." #!String
-    917: "Rosemary/75/18/Basic -75/Rosemary/The smell of rosemary is piney and fresh; familiar but also distinctive." #!String
+    917: "Rosemary/75/18/Basic -81/Rosemary/The smell of rosemary is piney and fresh; familiar but also distinctive." #!String
     918: "Rosemary Seeds/30/-300/Seeds -74/Rosemary Seeds/Plant these in fall. Takes 7 days to mature." #!String
     919: "Gooseberry/50/15/Basic -79/Gooseberry/A large round berry that makes for tasty pies." #!String
     920: "Gooseberry Seeds/40/-300/Seeds -74/Gooseberry Seeds/Plant these in summer. Takes 13 days to mature, and keeps producing after the first harvest." #!String
-    921: "Oregano/50/5/Basic -75/Oregano/A warm and aromatic, yet slightly bitter, herb in the mint family." #!String
+    921: "Oregano/50/5/Basic -81/Oregano/A warm and aromatic, yet slightly bitter, herb in the mint family." #!String
     922: "Oregano Seeds/15/-300/Seeds -74/Oregano Seeds/Plant these in summer. Takes 4 days to mature." #!String
     923: "Almond/90/12/Basic -81/Almond/A drupe consisting of an outer hull and a hard shell with the seed within." #!String
     924: "Cashew/100/12/Basic -81/Cashew/A buttery nut that buds at the bottom of the cashew apple." #!String
@@ -740,7 +746,7 @@ content:  #!Dictionary<Int32,String>
     981: "Lavender/30/18/Basic -80/Lavender/Such a lovely smelling herb. So calming and relaxing." #!String
     983: "Lavender Seeds/10/-300/Seeds -74/Lavender Seeds/Plant in summer. Takes 6 days to produce a soft purple flower." #!String
     984: "Lilac/40/18/Basic -80/Lilac/A very fragrant flower that is, well, lilac in color." #!String
-    986: "Lilac Seeds/15/-300/Seeds -74/Lilac Seeds/Plant in summer. Takes 7 days to produce a faint, cute flower." #!String
+    986: "Lilac Pod/15/-300/Seeds -74/Lilac Pod/Plant in summer. Takes 7 days to produce a faint, cute flower." #!String
     987: "Wisteria/60/-300/Basic -80/Wisteria/An especially fragrant cluster of purple flowers." #!String
     988: "Wisteria Sapling/650/-300/Basic -74/Wisteria Sapling/Takes 28 days to produce a mature Wisteria tree. Blossoms in the spring. Only grows if the 8 surrounding \"tiles\" are empty." #!String
     989: "Rose/320/18/Basic -80/Rose/A rose by any other name would smell as sweet." #!String
@@ -762,31 +768,31 @@ content:  #!Dictionary<Int32,String>
     1007: "Clary Sage Seeds/50/-300/Seeds -74/Clary Sage Seeds/Plant in summer. Takes 8 takes to produce purple-pink flowers." #!String
     1008: "Jasmine/95/18/Basic -80/Jasmine/These are sweet, highly scented flowers." #!String
     1010: "Clary Sage/130/18/Basic -80/Clary Sage/Beautiful purple-pink inflorescences that produce a euphoric scent." #!String
-    1012: "Melaleuca Leaves/100/-300/Basic -75/Melaleuca Leaves/A prickly cone of leaves that are often useds as a homemade remedy for cuts and bruises." #!String
+    1012: "Melaleuca Leaves/100/-300/Basic -81/Melaleuca Leaves/A prickly cone of leaves that are often useds as a homemade remedy for cuts and bruises." #!String
     1013: "Melaleuca Sapling/1000/-300/Basic -74/Melaleuca Sapling/Takes 28 days to produce a mature Melaleuca tree. Ready to harvest in the spring. Only grows if the 8 surrounding \"tiles\" are empty." #!String
     1014: "Vanilla Seeds/55/-300/Seeds -74/Vanilla Seeds/Plant these in spring. Takes 4 days to mature, and keeps producing after the first harvest." #!String
     1015: "Ylang Ylang Sapling/700/-300/Basic -74/Ylang Ylang Sapling/Takes 28 days to produce a mature Ylang Ylang tree. Blossoms in the summer. Only grows if the 8 surrounding \"tiles\" are empty." #!String
     1016: "Purple Coneflower Seeds/40/-300/Seeds -74/Purple Coneflower Seeds/Plant in fall. Takes 9 days to produce a purple flower." #!String
     1017: "Passion Flower Seeds/45g/-300/Seeds -74/Passion Flower Seeds/Plant in summer. Takes 8 days to produce a lovely flower." #!String
-    1018: "Vanilla Bean Pod/200/-300/Basic -75/Vanilla Bean Pod/Easily be one of the most well-known flavors in the world. Who’s hungry for ice cream?" #!String
+    1018: "Vanilla Bean Pod/200/-300/Basic -81/Vanilla Bean Pod/Easily be one of the most well-known flavors in the world. Who’s hungry for ice cream?" #!String
     1019: "Ylang Ylang/75/18/Basic -80/Ylang Ylang/A highly appreciated flower in perfumery and aromatherapy." #!String
     1021: "Purple Coneflower/75/18/Basic -80/Purple Coneflower/A lovely purple coneflower that’s pleasantly sweet. It is also known as echinacea and used to make a wonderful tea." #!String
     1023: "Passion Flower/160/18/Basic -80/Passion Flower/Gentle yet profound, this flower is cooling to the body, calming to the mind, and soothing to the spirit." #!String
-    1025: "Camphor Leaves/100/-300/Basic -75/Camphor Leaves/Glossy oval leaves that are very fragrant when crushed." #!String
+    1025: "Camphor Leaves/100/-300/Basic -81/Camphor Leaves/Glossy oval leaves that are very fragrant when crushed." #!String
     1026: "Camphor Sapling/1000/-300/Basic -74/Camphor Sapling/Takes 28 days to produce a mature Camphor tree. Ready to harvest in the winter. Only grows if the 8 surrounding \"tiles\" are empty." #!String
     1027: "Fennel Seeds/10/-300/Seeds -74/Fennel Seeds/Plant these in fall. Takes 5 days to mature." #!String
     1028: "Thyme Seeds/15/-300/Seeds -74/Thyme Seeds/Plant these in fall. Takes 5 days to mature." #!String
     1029: "Elderberry Seeds/35/-300/Seeds -74/Elderberry Seeds/Plant these in winter. Takes 10 days to mature, and keeps producing after the first harvest." #!String
     1030: "Bee Balm Seeds/60/-300/Seeds -74/Bee Balm Seeds/Plant in fall. Takes 9 days to produce an attractive flower." #!String
-    1032: "Fennel/35/5/Basic -75/Fennel/A food plant that can be eaten as a vegetable!" #!String
-    1033: "Thyme/55/5/Basic -75/Thyme/An aromatic herb in the mint family, with small rounded leaves and pink flowers." #!String
+    1032: "Fennel/35/5/Basic -81/Fennel/A food plant that can be eaten as a vegetable!" #!String
+    1033: "Thyme/55/5/Basic -81/Thyme/An aromatic herb in the mint family, with small rounded leaves and pink flowers." #!String
     1034: "Elderberry/60/15/Basic -79/Elderberry/Elderberries have also been used for making preserves, wines, winter cordials, and for adding flavor and color to other wines." #!String
     1035: "Bee Balm/115/18/Basic -80/Bee Balm/Small edible flowers that attract bees, butterflies, and hummingbirds!" #!String
-    1038: "Eucalyptus Leaves/135/-300/Basic -75/Eucalyptus Leaves/Leathery blue-green leaves are studded with glands containing a fragrant, volatile oil. Luckily not an exploding oil!" #!String
+    1038: "Eucalyptus Leaves/135/-300/Basic -81/Eucalyptus Leaves/Leathery blue-green leaves are studded with glands containing a fragrant, volatile oil. Luckily not an exploding oil!" #!String
     1039: "Eucalyptus Sapling/1375/-300/Basic -74/Eucalyptus Sapling/Takes 28 days to produce a mature Eucalyptus tree. Ready to harvest in the spring. Only grows if the 8 surrounding \"tiles\" are empty." #!String
-    1040: "Aloe Seeds/50/-300/Seeds -74/Aloe Seeds/Plant these in summer. Takes 4 days to mature." #!String
-    1041: "Aloe/140/20/Basic -75/Aloe/Aloe has long been an important and indispensable ally for emollient and moisturizing skin care. Great for healing sick burns." #!String
-    1042: "Cinnamon Sticks/140/-300/Basic -75/Cinnamon Sticks/Its scent is uniquely warming, uplifting, and stimulating, and its flavor sweet and delicious." #!String
+    1040: "Aloe Pod/50/-300/Seeds -74/Aloe Pod/Plant these in summer. Takes 4 days to mature." #!String
+    1041: "Aloe/140/20/Basic -81/Aloe/Aloe has long been an important and indispensable ally for emollient and moisturizing skin care. Great for healing sick burns." #!String
+    1042: "Cinnamon Sticks/140/-300/Basic -81/Cinnamon Sticks/Its scent is uniquely warming, uplifting, and stimulating, and its flavor sweet and delicious." #!String
     1043: "Grapefruit/140/15/Basic -79/Grapefruit/A large bitter fruit, high in Vitamin C. Are you a salty or sugary kind of person?" #!String
     1044: "Pomelo/80/15/Basic -79/Pomelo/A really large, not so bitter, cousin of the grapefruit." #!String
     1045: "Cassia Sapling/1500/-300/Basic -74/Cassia Sapling/Takes 28 days to produce a mature Cassia tree. Ready to harvest in the winter. Only grows if the 8 surrounding \"tiles\" are empty." #!String
