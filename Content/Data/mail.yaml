@@ -1,14 +1,14 @@
 
-xnbData: 
+xnbData:
     target: "w"
     compressed: true
     hiDef: true
-    readerData: 
-        - 
+    readerData:
+        -
             type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
             version: 0
 
-        - 
+        -
             type: "Microsoft.Xna.Framework.Content.StringReader"
             version: 0
 
@@ -174,8 +174,11 @@ content:  #!Dictionary<String,String>
     fall_1_1: "@,^ Fall is the perfect time to try something new. I have plenty, so this is your thyme now. It only takes 5 days to grow. ^ -Elliott%item object 1028 2%%" #!String
     fall_2_1: "@,^ Sometimes animals get cuts, just like we do. Rubbing melaleuca on the wound will heal them right up. Oh, and it works for people too. ^ I've got some for sale, if you'd like to try it. ^ -Marnie" #!String
     fall_5_1: "@! My dad just started selling Wysteria Saplings. They grow purple flowers, and I hear they taste great. Let me know if you grow any! ^ -Abigail" #!String
+    fall_17_1: "@,^ I hope you had a fine time at the fair yesterday. Next year seems far off, but you can never prepare too early. ^ I have it on good authority that the persimmon saplings Pierre sells will grow high quality fruit for your next grange display. ^ -Lewis" #!String
     fall_25_1:  "Dear @, ^ I have a tip to share with you: On days when I'm feeling sore, rubbing peppermint oil seems to make the aches subside. Here's a seed to grow, in case you ever get sore working on the farm. ^ -George%item object 912 1 %%" #!String
     fall_1_2: "@,^ Coneflowers grow well here in the desert, but they'd look beautiful on your farm too. ^ Take this to get started. If you visit sometime, I can sell you more. ^ -Sandy%item object 1016 1%%" #!String
     fall_2_3: "Dear @, Ever since I was a little girl, I've used camphor leaves for all sorts of things. It's the best remedy I know of. I asked Harvey to order a few saplings, so you can try it too. ^ Take care, ^ -Eveyln" #!String
+    winter_3_1: "Hey Kid, I've got another seed for you to grow. This round it's juniper. S'posed to make gin. Stuff's stronger than beer. These berries'll even grow during wintertime. ^ -Pam%item object 894 2%%" #!String
+    winter_10_1: "@, Winter has been so cold, but I've been teaching the kids about what they can look forward to in spring. ^ Today, we read about the many kinds of vanilla. I promised they could try some if they study hard. Can you grow this when spring comes? I'm sure they'll earn it. ^ -Penny%item object 1014 1%%" #!String
     winter_23_1: "@, ^ After a long day, I love sitting down with a cup of chamomile tea before bed. You should give it a try. ^ -Caroline%item object 904 1%%" #!String
     winter_11_2: "@, ^ Sometimes I used to find elderberries out in the wild. I always ate them fresh, but they can make a good wine. See what you can do with these extra seeds. ^ -Linus%item object 1029 3 %%" #!String
