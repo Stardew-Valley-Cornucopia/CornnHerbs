@@ -30,9 +30,17 @@ Implemented:
 - Cinnamon
 - Grapefruit
 - Pomelo
-- Persimmon (should already be universally liked as a fruit tree fruit)
 - Vanilla
 - Juniper
+- Bell Pepper
+- Carrot
+- Sweet Potato
+- Watermelon
+- Cotton
+- Parsley
+- Sugar Cane
+- Chives
+- Oregano
 ---------------------------------------------------------------------------
 Next:
 
