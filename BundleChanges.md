@@ -29,26 +29,33 @@
     - Same amount of options, but switched to a couple herbs the player grows
     - Other options will be based on ways to process herbs (ground, oil, candles, etc.)
     - Reward will still be food item
+  - *All 3 flowers and herbalist would need new artwork to reflect theme*
 - **Pantry**
   - Spring -> Fruits
     - 1 fruit/season
+    - *Needs art*
   - Summer -> Vegetables
     - 1 vegetable/season
+    - *Needs art*
   - Fall -> Seamstress
     - cotton, cloth, yarn, thread
+    - *Needs art*
   - Quality ->  Brewer's
     - 4 types of alcohol, must be available to brew Y1
     - reward changed to keg
+    - *Needs art*
   - Animal -> Farmer's Kitchen
     - Keeps need for animals
     - 6 options available
     - yogurt, butter, corn flour, raisins, 2 recipes that would be available Y1
       - types will need to be specific & available in Y1 to make
+    - *Needs art*
   - Artisan -> Artisan
       - instead of current options, will use our new artisan goods, while keeping 2 (?) old ones. Won't include wine, since there'll be a brewer bundle.
       - 12 options available
       - soap, fruit tree fruit from Y1, candle, etc.
       - reward undecided
+      - *Art not needed, but can be changed*
 - **Fishing**
   - All bundles same w/ food reward changed
   - Alternatively, we could replace one fish per bundle with a Y1 recipe made using a fish from that bundle.
@@ -85,8 +92,8 @@
 - Wood (99) -> Twine (5)
 
 #### Exotic Foraging
-* Autumn's Bounty (5) -> Poached Pear (5)
-
+- Autumn's Bounty (5) -> Poached Pear (5)
+  - *Price matches, need to check for buff*
 #### Spring Crops
 - Green Bean -> Basil
 
@@ -107,15 +114,17 @@
 - Cloth -> Thread
 
 #### Specialty Fish Bundle
-* Dish o' the Sea (5) -> Avocado Eel Roll (5)
+- Dish o' the Sea (5) -> Avocado Eel Roll (5)
+  - *Price matches, need to check for buff*
 
 #### Geologist's Bundle
-* Omni Geode (5) -> Iridium Fern Seeds (2)
+- Omni Geode (5) -> Iridium Fern Seeds (2)
 
 #### Chef's Bundle
 - Poppy -> Rose
 - Maki Roll -> Black Tea
-* Pink Cake (3) -> Carrot Cake (5)
+- Pink Cake (3) -> Carrot Cake (5)
+  - *No buff on pink cake, reward value kept same by adjusting # received*
 
 #### Dye Bundle
 - Sunflower -> Honeysuckle
@@ -123,10 +132,13 @@
 
 #### Fodder Bundle
 - Apple (3) -> Melaleuca (3)
+  - From same season, same growth time
 
 #### Enchanter's Bundle
 - Wine -> Rum
-* Gold Bar (5) -> Beefvine Seeds (3)
+- Gold Bar (5) -> Beefvine Seeds (3)
+  - thematic change, since it comes from Wizard
 
 #### 2500 Bundle
 - Chocolate Cake (3) -> Chocolate Covered Strawberries (4)
+  - No buff, value equivalent 
