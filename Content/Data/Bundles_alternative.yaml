@@ -20,7 +20,7 @@ content:  #!Dictionary<String,String>
     Pantry/1: "Vegetables/O 621 1/24 1 0 813 1 0 868 1 0 844 1 0/3" #!String
     Pantry/2: "Seamstress/BO 10 1/836 1 0 428 1 0 965 1 0 931 1 0/2" #!String
     Pantry/3: "Brewer/BO 12 1/1120 1 0 935 1 0 934 1 0 348 1 0/6/3" #!String
-    Pantry/4: "Farmer's Kitchen/BO 16 1/186 1 0 1053 1 0 928 1 0 1080 1 0 961 1 0 944 1 0 639 1 0 640 1 0 641 1 0 642 1 0 643 1 0/4/5" #!String
+    Pantry/4: "Farmer's Kitchen/BO 16 1/186 1 0 1053 1 0 928 1 0 1080 1 0 961 1 0 944 1 0/4/5" #!String
     Pantry/5: "Artisan/BO 12 1/340 1 0 344 1 0 937 1 0 936 1 0 424 1 0 854 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0/1/6" #!String
     Crafts Room/13: "Spring Flowers/O 899 3/861 1 0 809 1 0 18 1 0 22 1 0/0" #!String
     Crafts Room/14: "Summer Flowers/O 983 3/978 1 0 864 1 0 402 1 0/3" #!String
