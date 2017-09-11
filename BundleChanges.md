@@ -73,6 +73,7 @@
   - Changes match changes from current update
 - **Vault**
   - Only rewards should change (keep lightning rod & crystalarium)
+- **Note:** Bundle images can be updated through the JunimoNote.xnb file. 
 
 ## Bundle Changes - Current
 
