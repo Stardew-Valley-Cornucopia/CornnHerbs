@@ -18,7 +18,7 @@
 - All bundle requirements still from Y1 only
 - **Crafts Room**
   - Spring Flowers
-    - Y2 spring flower seed (2) as reward
+    - Y2 spring flower seed (2) as reward (Fairy Duster)
   - Summer Flowers
     - Y2 summer flower seed (2) as reward
   - Fall Flowers
@@ -28,32 +28,37 @@
   - Herbalist (changed from Exotic)
     - Same amount of options, but switched to a couple herbs the player grows
     - Other options will be based on ways to process herbs (ground, oil, candles, etc.)
+    - thyme, Basil, [color] essential oil, dried yellow flower, dried green herbs, Beeswax, oak resin, pine tar, Morel
+      - Pine tar & morel will be switched (need ideas)
     - Reward will still be food item
   - *All 3 flowers and herbalist would need new artwork to reflect theme*
 - **Pantry**
   - Spring -> Fruits
     - 1 fruit/season
+    - Strawberry, Blueberry, Watermelon, juniper berries
     - *Needs art*
   - Summer -> Vegetables
-    - 1 vegetable/season
+    - 1 vegetable/season (exc. winter)
+    - Parsnip, Lettuce, Carrot, Sweet Potato
     - *Needs art*
   - Fall -> Seamstress
-    - cotton, cloth, yarn, thread
+    - cotton, cloth, yarn (not yet implemented, twine for now), thread
     - *Needs art*
-  - Quality ->  Brewer's
+  - Quality ->  Brewer
     - 4 types of alcohol, must be available to brew Y1
+    - kombucha, sake, rum, wine
     - reward changed to keg
     - *Needs art*
   - Animal -> Farmer's Kitchen
     - Keeps need for animals
     - 6 options available
-    - yogurt, butter, corn flour, raisins, 2 recipes that would be available Y1
+    - yogurt (Large milk until implemented), goat butter, corn flour (rice flour while corn not implemented), raisins, stuffed bell peppers, brown sugar
       - types will need to be specific & available in Y1 to make
     - *Needs art*
   - Artisan -> Artisan
       - instead of current options, will use our new artisan goods, while keeping 2 (?) old ones. Won't include wine, since there'll be a brewer bundle.
       - 12 options available
-      - soap, fruit tree fruit from Y1, candle, etc.
+      - honey, jelly, coconut oil, soap (not implemented, currently using cottonseed oil), cheese, persimmon, candle, etc. (all base game fruits still in, until more of our artisan good are implemented)
       - reward undecided
       - *Art not needed, but can be changed*
 - **Fishing**
@@ -73,7 +78,7 @@
   - Changes match changes from current update
 - **Vault**
   - Only rewards should change (keep lightning rod & crystalarium)
-- **Note:** Bundle images can be updated through the JunimoNote.xnb file. 
+- **Note:** Bundle images can be updated through the JunimoNote.xnb file.
 
 ## Bundle Changes - Current
 
@@ -142,4 +147,4 @@
 
 #### 2500 Bundle
 - Chocolate Cake (3) -> Chocolate Covered Strawberries (4)
-  - No buff, value equivalent 
+  - No buff, value equivalent
