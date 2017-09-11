@@ -20,7 +20,7 @@ content:  #!Dictionary<String,String>
     Pantry/1: "Summer Crops/O 621 1/813 1 0 260 1 0 258 1 0 254 1 0/3" #!String
     Pantry/2: "Fall Crops/BO 10 1/270 1 0 272 1 0 276 1 0 844 1 0/2" #!String
     Pantry/3: "Quality Crops/BO 15 1/24 5 2 254 5 2 868 5 2 270 5 2/6/3" #!String
-    Pantry/4: "Animal/BO 16 1/186 1 0 182 1 0 174 1 0 1053 1 0 440 1 0 442 1 0 639 1 0 640 1 0 641 1 0 642 1 0 643 1 0/4/5" #!String
+    Pantry/4: "Animal/BO 16 1/186 1 0 182 1 0 174 1 0 1053 1 0 440 1 0 442 1 0/4/5" #!String
     Pantry/5: "Artisan/BO 12 1/1130 1 0 931 1 0 426 1 0 424 1 0 340 1 0 344 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0/1/6" #!String
     Crafts Room/13: "Spring Foraging/O 495 30/16 1 0 18 1 0 913 1 0 22 1 0/0" #!String
     Crafts Room/14: "Summer Foraging/O 496 30/905 1 0 398 1 0 402 1 0/3" #!String
