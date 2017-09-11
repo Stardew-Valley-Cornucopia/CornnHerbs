@@ -1,4 +1,22 @@
-// Possibly change foraging to flowers //
+About: 
+- Should be on balance with the base game bundles. 
+- Should (I hope) only contain items currently implemented in game. 
+  The exception to this is the change from red cabbage to Juniper. 
+  This now allows for guaranteed Y1 completion, but still provides a  challenge and planning ahead. 
+- No machine rewards were changed, since CustomMachines do not have an ID number. 
+- All food rewards are replaced with our new meals. Replaced meals have similar worth in gold to the originals, so balance will be similar. 
+   ** Will need to return to this when we finalize buffs, so buffs will be in balance with originals as well. ** 
+- Other rewards are intended to remain balanced, while letting players see parts of the mod that wouldn't be available for purchase  yet. Ex: Omni Geode (5) to Iridium Fern Seeds (2). Since omni geodes can give players iridium ore, this should be similar in balance, while giving the player a glimpse of what seeds they can look forward to buying in future years. 
+- The changes to Spring, Summer, Fall, and Winter foraging will now require the player to grow 1 plant for each. I chose plants that have a short growth time and were labeled as foragables, since these bundles are intended to be completed quickly. 
+- Truffle Oil -> Pink Essential Oil is only pink, because we are unable to set Essential Oil as a generic type. In testing, pink seems easy to make due to Salmonberries. I saw this as balanced since they alembic requires hardwood to craft, but I'm open to suggestions. 
+
+Possible Changes and Alternatives: 
+- Ins
+
+Key: 
+- refers to bundle item changed 
+* refers to reward item changed 
+
 
 Spring Foraging
 - Leek -> Parsley
