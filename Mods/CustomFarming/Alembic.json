@@ -1,0 +1,831 @@
+{
+   "Type": "CustomFarming.simpleMachine",
+   "Name": "Alembic",
+   "Description": "Distills flowers, fruits, herbs and vegetables into essential oils.",
+   "Tilesheet" : "Alembic.png",
+   "TileIndex" : 0,
+   "WorkAnimationFrames" : 0,
+   "AnimationSpeed" : 0,
+   "CategoryName" : "Crafting",
+   "Materials" : [-75,-79,-80,-81,417],
+   "RequieredStack" : 1,
+   "StarterMaterial" : 0,
+   "StarterMaterialStack" : 0,
+   "Crafting" : "709 10 766 50 334 5",
+   "Produce": {
+      "Name": "Essential Oil",
+      "Description": "A concentrated liquid containing the aroma compounds of a plant.",
+	  "usePrefix" : true,
+	  "useColor" : false,
+	  "ProduceID" : 1124,
+	  "TileIndex" : 0,
+	  "Stack" : 1,
+	  "ProductionTime" : 720
+   },
+   "SpecialProduce" : 	[
+	  {
+	  "Material" : 613,
+    "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 628,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 282,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 260,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 252,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 396,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 400,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 919,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 815,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 840,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 900,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 264,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 256,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 420,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 591,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 989,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 283,
+	  "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1124,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 635,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 845,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 276,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 868,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 824,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 873,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 281,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 408,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 412,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 280,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 376,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 634,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 268,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 262,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 20,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 24,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 839,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 915,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 903,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 421,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 593,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 978,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 18,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 22,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 817,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 818,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 822,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 825,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 832,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 270,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 248,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 90,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 820,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 852,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 857,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 274,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 278,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 190,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 188,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 304,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 250,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 399,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 813,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 891,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 895,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 812,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 834,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 842,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 913,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 259,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 869,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 917,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 907,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 905,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 921,
+	  "ProduceID" : 1127,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 909,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 911,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 454,
+	  "Description": "A concentrated blue liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1128,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 258,
+	  "Description": "A concentrated blue liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1128,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 414,
+	  "Description": "A concentrated blue liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1128,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 893,
+	  "Description": "A concentrated blue liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1128,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 597,
+	  "Description": "A concentrated blue liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1128,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 864,
+	  "Description": "A concentrated blue liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1128,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 416,
+	  "Description": "A concentrated blue liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1128,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 398,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 850,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 410,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 272,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 422,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 595,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 418,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 987,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 984,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 981,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 809,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 254,
+	  "Description": "A concentrated pink liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1130,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 636,
+	  "Description": "A concentrated pink liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1130,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 637,
+	  "Description": "A concentrated pink liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1130,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 406,
+	  "Description": "A concentrated pink liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1130,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 296,
+	  "Description": "A concentrated pink liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1130,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 844,
+	  "Description": "A concentrated pink liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1130,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 266,
+	  "Description": "A concentrated pink liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1130,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 402,
+	  "Description": "A concentrated pink liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1130,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 897,
+	  "Description": "A concentrated pink liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1130,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 861,
+	  "Description": "A concentrated pink liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1130,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 88,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 284,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 192,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 257,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 16,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 404,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 78,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 808,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 830,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 870,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 430,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1043,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 923,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 924,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1008,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1019,
+	  "Description": "A concentrated yellow liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1126,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1044,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 926,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1012,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1025,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1032,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1033,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1038,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1040,
+	  "Description": "A concentrated green liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1127,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 417,
+	  "Description": "A concentrated orange liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1125,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1010,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1021,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1023,
+	  "Description": "A concentrated purple liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1129,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1035,
+	  "Description": "A concentrated pink liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1130,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 925,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1018,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+    },{
+	  "Material" : 1042,
+	  "Description": "A concentrated brown liquid containing the aroma compounds of a plant.",
+	  "ProduceID" : 1131,
+	  "usePrefix": true,
+	  "useColor": false
+    }]
+}
