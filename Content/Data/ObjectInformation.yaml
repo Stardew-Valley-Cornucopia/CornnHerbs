@@ -607,7 +607,7 @@ content:  #!Dictionary<Int32,String>
     833: "Pineapple Seeds/50/-300/Seeds -74/Pineapple Seeds/Plant these in spring. Takes 8 days to mature, and continues to produce after the first harvest." #!String
     834: "Cucumber/90/20/Basic -75/Cucumber/A delicious and watery snack." #!String
     835: "Cucumber Starter/30/-300/Seeds -74/Cucumber Starter/Plant these in summer. Takes 11 days to mature, but keeps producing after that. Grows on a trellis." #!String
-    836: "Cotton/65/-300/Basic -26/Cotton Boll/Fluffy and white, it can be used to make thread." #!String
+    836: "Cotton Boll/65/-300/Basic -26/Cotton Boll/Fluffy and white, it can be used to make thread." #!String
     837: "Cotton Seeds/40/-300/Seeds -74/Cotton Seeds/Plant these in summer or fall. Takes 6 days to mature, and keeps producing after the first harvest." #!String
     838: "Rice Seeds/25/-300/Basic -74/Rice Seeds/Plant these in spring, summer, or fall. Takes 5 days to mature, and continues to produce after the first harvest. Harvest with the scythe." #!String
     839: "Unpolished Rice/20/-300/Basic -75/Unpolished Rice/Put it in the grinder to prepare it for cooking or selling." #!String
