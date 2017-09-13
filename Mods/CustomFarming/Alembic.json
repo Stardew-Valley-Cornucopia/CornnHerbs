@@ -25,7 +25,7 @@
    "SpecialProduce" : 	[
 	  {
 	  "Material" : 613,
-    "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
+          "Description": "A concentrated red liquid containing the aroma compounds of a plant.",
 	  "ProduceID" : 1124,
 	  "usePrefix": true,
 	  "useColor": false
