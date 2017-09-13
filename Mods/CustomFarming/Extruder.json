@@ -1,0 +1,61 @@
+{
+   "Type": "CustomFarming.simpleMachine",
+   "Name": "Extruder",
+   "Description": "Turns flour into noodles and honey into wax!",
+   "Tilesheet" : "Extruder.png",
+   "TileIndex" : 0,
+   "WorkAnimationFrames" : 0,
+   "AnimationSpeed" : 0,
+   "CategoryName" : "Crafting",
+   "Materials" : [927,928,246,340],
+   "RequieredStack" : 1,
+   "StarterMaterial" : 0,
+   "StarterMaterialStack" : 0,
+   "Crafting" : "709 5 335 2 787 1",
+   "Produce": {
+      "Name": "Noodles",
+      "Description": "A common cooking ingredient made from flour.",
+	  "usePrefix" : false,
+	  "useColor" : false,
+	  "ProduceID" : 1099,
+	  "Stack" : 1,
+	  "ProductionTime" :  360
+   },
+   "SpecialProduce" : 	[
+	  {
+	  "Material" : 927,
+	  "Name": "Buckwheat Noodles",
+    "Description": "A bag of coarse, earthy-flavored noodles.",
+	  "ProduceID" : 1099,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 928,
+    "Name": "Rice Noodles",
+    "Description": "A bag of thin, rice-flavored noodles.",
+	  "ProduceID" : 1100,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 246,
+    "Name": "Wheat Noodles",
+    "Description": "A bag of robust noodles used throughout the world for a multitude of meals.",
+	  "ProduceID" : 1101,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : CHICLERUBBERID,
+    "Name": "Chewing Gum",
+    "Description": "The worldwide phenomenon.",
+	  "ProduceID" : 1098,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 340,
+    "Name": "Beeswax",
+    "Description": "Wax used to bind goods and make numerous products.",
+	  "ProduceID" : 1097,
+	  "usePrefix": false,
+	  "useColor": false
+    }]
+}
