@@ -773,7 +773,7 @@ content:  #!Dictionary<Int32,String>
     1014: "Vanilla Seeds/55/-300/Seeds -74/Vanilla Seeds/Plant these in spring. Takes 4 days to mature, and keeps producing after the first harvest." #!String
     1015: "Ylang Ylang Sapling/700/-300/Basic -74/Ylang Ylang Sapling/Takes 28 days to produce a mature Ylang Ylang tree. Blossoms in the summer. Only grows if the 8 surrounding \"tiles\" are empty." #!String
     1016: "Purple Coneflower Seeds/40/-300/Seeds -74/Purple Coneflower Seeds/Plant in fall. Takes 9 days to produce a purple flower." #!String
-    1017: "Passion Flower Seeds/45g/-300/Seeds -74/Passion Flower Seeds/Plant in summer. Takes 8 days to produce a lovely flower." #!String
+    1017: "Passion Flower Seeds/45/-300/Seeds -74/Passion Flower Seeds/Plant in summer. Takes 8 days to produce a lovely flower." #!String
     1018: "Vanilla Bean Pod/200/-300/Basic -81/Vanilla Bean Pod/Easily be one of the most well-known flavors in the world. Who’s hungry for ice cream?" #!String
     1019: "Ylang Ylang/75/18/Basic -80/Ylang Ylang/A highly appreciated flower in perfumery and aromatherapy." #!String
     1021: "Purple Coneflower/75/18/Basic -80/Purple Coneflower/A lovely purple coneflower that’s pleasantly sweet. It is also known as echinacea and used to make a wonderful tea." #!String
