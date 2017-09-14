@@ -7,7 +7,7 @@
 - All food rewards are replaced with our new meals. Replaced meals have similar worth in gold to the originals, so balance will be similar.
    - *Will need to return to this when we finalize buffs, so buffs will be in balance with originals as well. Would like to keep fishing buff -> fishing buff, for example*
 - Other rewards are intended to remain balanced, while letting players see parts of the mod that wouldn't be available for purchase  yet.
-  - Ex: Omni Geode (5) to Iridium Fern Seeds (2).
+  - Ex: Omni Geode (5) to Iridium Fern Seeds (5).
     - Since omni geodes can give players iridium ore, this should be similar in balance, while giving the player a glimpse of what seeds they can look forward to buying in future years.
 - The changes to Spring, Summer, Fall, and Winter foraging will now require the player to grow 1 plant for each. I chose plants that have a short growth time and were labeled as foragables, since these bundles are intended to be completed quickly.
   - *Contemplating if these are appropriate changes, or if we should instead only change rewards here.*
@@ -95,7 +95,7 @@
 - Crocus -> Mint
 
 #### Construction Bundle
-- Wood (99) -> Twine (5)
+- Wood (99) -> Twine (20)
 
 #### Exotic Foraging
 - Autumn's Bounty (5) -> Poached Pear (5)

@@ -1,0 +1,40 @@
+{
+   "Type": "CustomFarming.simpleMachine",
+   "Name": "Foreign Cask",
+   "Description": "This cask is of a foreign make. It can ferment soybeans and rice.",
+   "Tilesheet" : "ForeignCask.png",
+   "TileIndex" : 0,
+   "WorkAnimationFrames" : 0,
+   "AnimationSpeed" : 0,
+   "CategoryName" : "Crafting",
+   "Materials" : [266,926],
+   "RequieredStack" : 1,
+   "StarterMaterial" : 0,
+   "StarterMaterialStack" : 0,
+   "Crafting" : "709 15 390 5 771 10 725 1",
+   "Produce": {
+      "Name": "Kimchi",
+      "Description": "Most commonly made from cabbage mixed with spicy seasonings.",
+	  "usePrefix" : false,
+	  "useColor" : false,
+	  "ProduceID" : 1133,
+	  "Stack" : 1,
+	  "ProductionTime" : 2360
+   },
+   "SpecialProduce" : 	[
+	  {
+	  "Material" : SOYBEANSEEDSID,
+    "Name": "Miso Paste",
+    "Description": "A paste made from soybeans. Used to make soup.",
+	  "ProduceID" : 1134,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 926,
+    "Name": "Natto",
+    "Description": "A sticky, fermented snack often eaten for breakfast.",
+	  "ProduceID" : NATTOID,
+	  "usePrefix": false,
+	  "useColor": false
+    }]
+}

@@ -456,7 +456,7 @@ content:  #!Dictionary<Int32,String>
     593: "Summer Spangle/90/18/Basic -80/Summer Spangle/A tropical bloom that thrives in the humid summer air. Has a sweet, tangy aroma." #!String
     595: "Fairy Rose/290/18/Basic -80/Fairy Rose/An old folk legend suggests that the sweet smell of this flower attracts fairies." #!String
     597: "Blue Jazz/50/18/Basic -80/Blue Jazz/The flower grows in a sphere to invite as many butterflies as possible." #!String
-    598: "Poulet/60/-300/Basic -26/Poulet/A whole chicken, ready for cooking." #!String
+    598: "Chicken/60/-300/Basic -26/Chicken/A whole chicken, ready for cooking." #!String
     599: "Sprinkler/100/-300/Crafting -8/Sprinkler/Waters the 4 adjacent tiles every morning." #!String
     604: "Plum Pudding/260/70/Cooking -7/Plum Pudding/A traditional holiday treat./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     605: "Artichoke Dip/210/40/Cooking -7/Artichoke Dip/It's cool and refreshing./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
@@ -485,8 +485,8 @@ content:  #!Dictionary<Int32,String>
     640: "Mutton/100/-300/Basic -26/Mutton/A rich, tough cut from a sheep." #!String
     641: "Pork/80/-300/Basic -26/Pork/A fatty cut of pork." #!String
     642: "Chevon/100/-300/Basic -26/Chevon/A lean cut from a goat." #!String
-    643: "Canard/85/-300/Basic -26/Canard/A drumstick from a duck." #!String
-    644: "Lapin/50/-300/Basic -26/Lapin/A gamey cut from a rabbit." #!String
+    643: "Duck/85/-300/Basic -26/Duck/A drumstick from a duck." #!String
+    644: "Rabbit/50/-300/Basic -26/Rabbit/A gamey cut from a rabbit." #!String
     645: "Iridium Sprinkler/1000/-300/Crafting -8/Iridium Sprinkler/Waters the 24 adjacent tiles every morning." #!String
     648: "Coleslaw/345/85/Cooking -7/Coleslaw/It's light, fresh and very healthy./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     649: "Fiddlehead Risotto/350/90/Cooking -7/Fiddlehead Risotto/A creamy rice dish served with sauteed fern heads. It's a little bland./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
@@ -607,7 +607,7 @@ content:  #!Dictionary<Int32,String>
     833: "Pineapple Seeds/50/-300/Seeds -74/Pineapple Seeds/Plant these in spring. Takes 8 days to mature, and continues to produce after the first harvest." #!String
     834: "Cucumber/90/20/Basic -75/Cucumber/A delicious and watery snack." #!String
     835: "Cucumber Starter/30/-300/Seeds -74/Cucumber Starter/Plant these in summer. Takes 11 days to mature, but keeps producing after that. Grows on a trellis." #!String
-    836: "Cotton/65/-300/Basic -26/Cotton Boll/Fluffy and white, it can be used to make thread." #!String
+    836: "Cotton Boll/65/-300/Basic -26/Cotton Boll/Fluffy and white, it can be used to make thread." #!String
     837: "Cotton Seeds/40/-300/Seeds -74/Cotton Seeds/Plant these in summer or fall. Takes 6 days to mature, and keeps producing after the first harvest." #!String
     838: "Rice Seeds/25/-300/Basic -74/Rice Seeds/Plant these in spring, summer, or fall. Takes 5 days to mature, and continues to produce after the first harvest. Harvest with the scythe." #!String
     839: "Unpolished Rice/20/-300/Basic -75/Unpolished Rice/Put it in the grinder to prepare it for cooking or selling." #!String
@@ -807,7 +807,7 @@ content:  #!Dictionary<Int32,String>
     1054: "Almond Butter/175/50/Basic -26/Almond Butter/A light, slightly gritty butter." #!String
     1055: "Cashew Butter/175/50/Basic -26/Cashew Butter/A crunchy butter with bits of cashew inside." #!String
     1056: "Coconut Butter/200/50/Basic -26/Coconut Butter/A light butter with a tropical scent." #!String
-    1057: "Cookie Butter/320/50/Basic -26/Cookie Butter/Cookies ground into a smooth, delicious paste." #!String
+    1057: "Cookie Butter/320/50/Basic -26/Cookie Butter/Cookies ground into a smooth, delicious paste. Don't lie to yourself. Just use a spoon." #!String
     1058: "Hazelnut Butter/175/50/Basic -26/Hazelnut Butter/An irresistible, chocolate-flavored spread." #!String
     1059: "Peanut Butter/160/15/Basic -26/Peanut Butter/The classic staple. Do you like smooth or crunchy?." #!String
     1060: "Slime Butter/100/50/Basic -26/Slime Butter/A green butter made from slime..." #!String

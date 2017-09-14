@@ -1,0 +1,58 @@
+{
+   "Type": "CustomFarming.simpleMachine",
+   "Name": "Enhanced Oil Maker",
+   "Description": "An versatile oil maker that makes specialized oils.",
+   "Tilesheet" : "EnhancedOilMaker.png",
+   "TileIndex" : 0,
+   "WorkAnimationFrames" : 0,
+   "AnimationSpeed" : 0,
+   "CategoryName" : "Crafting",
+   "Materials" : [835,88,812,873],
+   "RequieredStack" : 1,
+   "StarterMaterial" : 0,
+   "StarterMaterialStack" : 0,
+   "Crafting" : "709 20 766 50 336 1",
+   "Produce": {
+      "Name": "Oil",
+      "Description": "All purpose cooking oil.",
+	  "usePrefix" : false,
+	  "useColor" : false,
+	  "ProduceID" : 247,
+	  "Stack" : 1,
+	  "ProductionTime" : 
+   },
+   "SpecialProduce" : 	[
+	  {
+	  "Material" : 835,
+    "Name": "Cottonseed Oil",
+    "Description": "An oil of cotton seeds often used as a substitution to vegetable oils.",
+	  "ProduceID" : 936,
+	  "usePrefix": false,
+	  "useColor": false
+	  "ProductionTime" : 2360
+    },{
+	  "Material" : 88,
+    "Name": "Coconut Oil",
+    "Description": "A multi-purpose oil used in cooking and household products.",
+	  "ProduceID" : 937,
+	  "usePrefix": false,
+	  "useColor": false
+          "ProductionTime" : 60
+    },{
+	  "Material" : 812,
+    "Name": "Olive Oil",
+    "Description": "A light vegetable oil often used for salads.",
+	  "ProduceID" : 938,
+	  "usePrefix": false,
+	  "useColor": false
+          "ProductionTime" : 60
+    },{
+	  "Material" : 873,
+    "Name": "Peanut Oil",
+    "Description": "An oil generally used in cooking or frying.",
+	  "ProduceID" : 939,
+	  "usePrefix": false,
+	  "useColor": false
+          "ProductionTime" : 480
+    }]
+}
