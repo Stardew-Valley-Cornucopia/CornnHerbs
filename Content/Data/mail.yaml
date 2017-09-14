@@ -162,21 +162,28 @@ content:  #!Dictionary<String,String>
     summer_4: "Dear @,^ My friend sent me a science package from the Botanical Heritage Foundation for my birthday. I think it'd be great if you grew some of these for the town!  ^   -Jas%item object 797 75 %%" #!String
     winter_23: "Dear @,^ I ordered some tea sprouts, but they sent me too many. So, I figured I'd share my birthday present with the town farmer. Hehe, enjoy! ^   -Leah%item object 797 75 %%" #!String
     spring_16_1: "@,^ Sometimes animals get cuts, just like we do. Rubbing melaleuca on the wound will heal them right up. Oh, and it works for people too. ^ I've got some for sale, if you'd like to try it. ^ -Marnie" #!String
+    spring_5_2: "@, ^ placeholder ^ -Emily%item object 823 1%%" #!String
     spring_9_2: "@, ^ A Complete Breakfast is essential in training. Have you tried it with a glass of grapefruit juice? ^ I heard Pierre's started selling grapefruit saplings. If you grow some, maybe we can have breakfast together sometime. ^ -Alex" #!String
     spring_10_2: "@, Alex won't stop talking about grapefruits, but he's missing out. Pomelo is sweeter and makes a much better juice. Almost tastes like soda, if you ask me. ^ -Sam" #!String
     spring_13_2: "Dear @, ^ Have you tried using fennel in your cooking? I know you'll just love it. I have some extra seeds you can try. Let me know what you think. ^ -Jodi%item object 1027 3 %%" #!String
+    spring_14_2: "@, ^ placeholder ^ -Haley" #!String
     spring_19_2: "@, ^ A good accessory is necessary to complete an outfit. Sometimes food can be pretty too. I like using lilac to finish off a dish. ^ -Emily%item object 986 1%%" #!String
     spring_25_2: "@,^ I hear you like exploring the mines. If you get scraped up, try putting some aloe on the wound. It'll soothe the pain right away. ^ -Harvey%item object 1040 2 %%" #!String
     spring_26_2: "@, ^ As you know, I haven't had much success in love, so I'd like your help. I overheard the Wizard talking about a love potion the other day. He said it uses passion flowers. Can you grow some for me? ^ P.S. Just don't tell you-know-who. ^ -Clint%item object 1017 1%%" #!String
+    spring_7_3: "@, ^ placeholder ^ -Jodi%item object 1050 1%%" #!String
     summer_12_1: "@, ^ I love receiving such pretty sunflowers, but I would give anything for a classic rose. Can you please grow some? ^ -Haley%item object 991 1%%" #!String
     summer_27_1: "@, ^ Now you know how much I love a good classic ale, but I heard some folks on the bus talkin' about ginger beer. I have some seeds, but nothin' to make the beer. Can you brew me some? ^ -Pam%item object 916 3%%" #!String
     summer_4_2: "Dear @,^ Have you heard of lavender? Just the smell of it calms me down during the toughest times. You should give it a try. ^ -Penny%item object 983 3%%" #!String
     summer_6_1: "@, ^ I found some honeysuckle growing in the woods. I thought you might like it. ^ Marnie even keeps an extra supply in case I don't see any growing. ^  -Leah%item object 980 2%%" #!String
+    summer_5_2: "@, ^ placeholder ^ -Demetrius%item object 920 1%%" #!String
+    summer_10_2: "@, ^ placeholder ^ -Willy%item object 858 1%%" #!String
+    summer_13_2: "@, ^ placeholder ^ -Robin%item object 1030 1%%" #!String
     fall_1_1: "@,^ Fall is the perfect time to try something new. I have plenty, so this is your thyme now. It only takes 5 days to grow. ^ -Elliott%item object 1028 2%%" #!String
     fall_5_1: "@! My dad just started selling Wysteria Saplings. They grow purple flowers, and I hear they taste great. Let me know if you grow any! ^ -Abigail" #!String
     fall_17_1: "@,^ I hope you had a fine time at the fair yesterday. Next year seems far off, but you can never prepare too early. ^ I have it on good authority that the persimmon saplings Pierre sells will grow high quality fruit for your next grange display. ^ -Lewis" #!String
     fall_25_1:  "Dear @, ^ I have a tip to share with you: On days when I'm feeling sore, rubbing peppermint oil seems to make the aches subside. Here's a seed to grow, in case you ever get sore working on the farm. ^ -George%item object 912 1 %%" #!String
     fall_1_2: "@,^ Coneflowers grow well here in the desert, but they'd look beautiful on your farm too. ^ Take this to get started. If you visit sometime, I can sell you more. ^ -Sandy%item object 1016 1%%" #!String
+    fall_8_2: "@, ^ placeholder ^ -Sandy%item object 899 1%%" #!String
     fall_2_3: "Dear @, Ever since I was a little girl, I've used camphor leaves for all sorts of things. It's the best remedy I know of. I asked Harvey to order a few saplings, so you can try it too. ^ Take care, ^ -Eveyln" #!String
     winter_3_1: "Hey Kid, I've got another seed for you to grow. This round it's juniper. S'posed to make gin. Stuff's stronger than beer. These berries'll even grow during wintertime. ^ -Pam%item object 894 2%%" #!String
     winter_10_1: "@, Winter has been so cold, but I've been teaching the kids about what they can look forward to in spring. ^ Today, we read about the many kinds of vanilla. I promised they could try some if they study hard. Can you grow this when spring comes? I'm sure they'll earn it. ^ -Penny%item object 1014 1%%" #!String
