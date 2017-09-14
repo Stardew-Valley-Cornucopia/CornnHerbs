@@ -1,0 +1,117 @@
+{
+   "Type": "CustomFarming.simpleMachine",
+   "Name": "Butter Churn",
+   "Description": "Turns milk or nuts into butter.",
+   "Tilesheet" : "ButterChurn.png",
+   "TileIndex" : 0,
+   "WorkAnimationFrames" : 0,
+   "AnimationSpeed" : 0,
+   "CategoryName" : "Crafting",
+   "Materials" : [438,436,184,186,88,223,421,408,247,873,766,923,924,925,926],
+   "RequieredStack" : 1,
+   "StarterMaterial" : 0,
+   "StarterMaterialStack" : 0,
+   "Crafting" : "388 40 726 1",
+   "Produce": {
+      "Name": "Butter",
+      "Description": "It's your basic butter.",
+	  "usePrefix" : false,
+	  "useColor" : false,
+	  "ProduceID" : 1052,
+	  "TileIndex" : 0,
+	  "Stack" : 1,
+	  "ProductionTime" : 180
+   },
+   "SpecialProduce" : 	[
+	  {
+	  "Material" : 436,
+	  "Name": "Goat Butter",
+          "Description": "Soft butter made from goat’s milk.",
+	  "ProduceID" : 1053,
+	  "usePrefix": false,
+	  "useColor": false
+	  },{
+	  "Material" : 438,
+	  "Name": "Goat Butter",
+          "Description": "Soft butter made from goat’s milk.",
+	  "Quality": 2,
+	  "ProduceID" : 1053,
+	  "usePrefix": false,
+	  "useColor": false
+	  },{
+	  "Material" : 184,
+	  "Name": "Butter",
+          "Description": "It's your basic butter.",
+	  "ProduceID" : 1052,
+	  "usePrefix": false,
+	  "useColor": false
+	  },{
+	  "Material" : 186,
+	  "Name": "Butter",
+    	  "Description": "It's your basic butter.",
+	  "Quality": 2,
+	  "ProduceID" : 1052,
+	  "usePrefix": false,
+	  "useColor": false
+	  },{
+	  "Material" : 923,
+    	  "Description": "A light, slightly gritty butter.",
+	  "ProduceID" : 1054,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 924,
+    	  "Description": "A crunchy butter with bits of cashew inside.",
+	  "ProduceID" : 1055,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 88,
+    	  "Description": "A light butter with a tropical scent.",
+	  "ProduceID" : 1056,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 223,
+    	  "Description": "Cookies ground into a smooth, delicious paste.",
+	  "ProduceID" : 1057,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 408,
+    	  "Description": "An irresistible, chocolate-flavored spread.",
+	  "ProduceID" : 1058,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 873,
+    	  "Description": "The classic staple. Do you like smooth or crunchy?",
+	  "ProduceID" : 1059,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 766,
+    	  "Description": "A green butter made from slime...",
+	  "ProduceID" : 1060,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 926,
+    	  "Description": "A butter made of soybeans for individuals with lactose intolerance.",
+	  "ProduceID" : 1061,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 421,
+    	  "Description": "A peanut butter substitute with a sunny flavor.",
+	  "ProduceID" : 1062,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 925,
+    	  "Description": "A crunchy butter with bits of walnut.",
+	  "ProduceID" : 1063,
+	  "usePrefix": true,
+	  "useColor": false
+    }]
+}
