@@ -1,0 +1,56 @@
+{
+   "Type": "CustomFarming.simpleMachine",
+   "Name": "Yogurt Jar",
+   "Description": "A jar to allow milk to ferment into yogurt.",
+   "Tilesheet" : "YogurtJar.png",
+   "TileIndex" : 0,
+   "WorkAnimationFrames" : 0,
+   "AnimationSpeed" : 0,
+   "CategoryName" : "Crafting",
+   "Materials" : [-79,184,186,436,438],
+   "RequieredStack" : 1,
+   "StarterMaterial" : 184,
+   "StarterMaterialStack" : 5,
+   "Crafting" : "390 40 550 1",
+   "Produce": {
+      "Name": "Yogurt",
+      "Description": "Yogurt made from cow's milk. It's plain, with a slightly sweet flavor.",
+	  "usePrefix" : false,
+	  "useColor" : false,
+	  "ProduceID" : YOGURTID,
+	  "Stack" : 1,
+	  "ProductionTime" : 1600
+   },
+   "SpecialProduce" : 	[
+	  {
+	  "Material" : -79,
+    "Name": "Yogurt",
+    "Description": "Yogurt with the flavor of a fruit.",
+	  "ProduceID" : FRUITYOGURTID,
+	  "usePrefix": true,
+	  "useColor": false
+	  },{
+	  "Material" : 436,
+    "Name": "Goat Yogurt",
+    "Description": "A tart yogurt that is favored in some lands.",
+	  "ProduceID" : GOATYOGURTID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 438,
+    "Name": "Goat Yogurt",
+    "Description": "A tart yogurt that is favored in some lands.",
+    "Quality": 2,
+	  "ProduceID" : GOATYOGURTID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 186,
+    "Name": "Yogurt",
+    "Description": "Yogurt made from cow's milk. It's plain, with a slightly sweet flavor.",
+    "Quality": 2,
+	  "ProduceID" : YOGURTID,
+	  "usePrefix": false,
+	  "useColor": false
+    }]
+}
