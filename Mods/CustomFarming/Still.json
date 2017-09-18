@@ -1,0 +1,110 @@
+{
+   "Type": "CustomFarming.simpleMachine",
+   "Name": "Still",
+   "Description": "A distillation system used to make liquor.",
+   "Tilesheet" : "Still.png",
+   "TileIndex" : 0,
+   "WorkAnimationFrames" : 0,
+   "AnimationSpeed" : 0,
+   "CategoryName" : "Crafting",
+   "Materials" : [348,893,270,870,636,192,844],
+   "RequieredStack" : 1,
+   "StarterMaterial" : 0,
+   "StarterMaterialStack" : 0,
+   "Crafting" : "335 5 334 5",
+   "Produce": {
+      "Name": "Absinthe",
+      "Description": "Drink in strict moderation.",
+	  "usePrefix" : false,
+	  "useColor" : false,
+	  "ProduceID" : 932,
+	  "Stack" : 1,
+	  "ProductionTime" : 6000
+   },
+   "SpecialProduce" : 	[
+	  {
+	  "Material" : CORNMALTID,
+    "Name": "Bourbon",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : BOURBONID,
+	  "usePrefix": false,
+	  "useColor": false
+	  },{
+	  "Material" : 348,
+    "Name": "Brandy",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : BRNADYID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 893,
+    "Name": "Gin",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : 933,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : MAGUEYID,
+    "Name": "Mezcal",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : MEZCALID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 270,
+    "Name": "Moonshine",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : MOONSHINEID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 870,
+    "Name": "Rum",
+    "Description": "Why is the rum gone? When you find it, drink in moderation.",
+	  "ProduceID" : 934,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 636,
+    "Name": "Schnapps",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : SCHNAPPSID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : BARLEYMALTID,
+    "Name": "Scotch",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : SCOTCHID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : BLUEAGAVEID,
+    "Name": "Tequila",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : TEQUILAID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 192,
+    "Name": "Vodka",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : VODKAID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : WHEATMALTID,
+    "Name": "Whiskey",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : WHISKEYID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 844,
+    "Name": "Shochu",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : SHOCHUID,
+	  "usePrefix": false,
+	  "useColor": false
+    }]
+}
