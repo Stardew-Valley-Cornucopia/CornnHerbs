@@ -1,0 +1,147 @@
+{
+   "Type": "CustomFarming.simpleMachine",
+   "Name": "Hardwood Keg",
+   "Description": "A versatile keg made of hardwood. Can be used to make malted beverages and fermented milk products.",
+   "Tilesheet" : "HardwoodKeg.png",
+   "TileIndex" : 0,
+   "WorkAnimationFrames" : 0,
+   "AnimationSpeed" : 0,
+   "CategoryName" : "Crafting",
+   "Materials" : [613,893,830,263,930,436,438,184,186,852,398,844,406,398],
+   "RequieredStack" : 1,
+   "StarterMaterial" : 0,
+   "StarterMaterialStack" : 0,
+   "Crafting" : "335 1 709 20 725 1 334 1",
+   "Produce": {
+      "Name": "Apple Cider",
+      "Description": "A delicious refreshment that sparkles in the light.",
+	  "usePrefix" : false,
+	  "useColor" : false,
+	  "ProduceID" : 930,
+	  "Stack" : 1,
+	  "ProductionTime" : 6000
+   },
+   "SpecialProduce" : 	[
+	  {
+	  "Material" : 893,
+    "Name": "Sake",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : 935,
+	  "usePrefix": false,
+	  "useColor": false
+	  },{
+	  "Material" : 830,
+    "Name": "Cauim",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : CAUIMID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 263,
+    "Name": "Dark Ale",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : DARKALEID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 930,
+    "Name": "Hard Apple Cider",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : HARDAPPLECIDERID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 436,
+    "Name": "Kefir",
+    "Description": "Made from sheep or goat milk and a kefir yeast. It's creamy.",
+	  "ProduceID" : KEFIRID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 438,
+    "Name": "Kefir",
+    "Description": "Made from sheep or goat milk and a kefir yeast. It's creamy.",
+    "Quality": 2,
+    "ProduceID" : KEFIRID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 184,
+    "Name": "Kumis",
+    "Description": "A fermented milk beverage usually made from mare’s milk.",
+	  "ProduceID" : KUMISID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 186,
+    "Name": "Kumis",
+    "Description": "A fermented milk beverage usually made from mare’s milk.",
+    "Quality": 2,
+	  "ProduceID" : KUMISID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : YOGURTID,
+    "Name": "Lassi",
+    "Description": "A creamy and frothy beverage made from fermented yogurt.",
+	  "ProduceID" : LASSIID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 852,
+    "Name": "Perry",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : PERRYID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : WHEATMALTID,
+    "Name": "Porter",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : PORTERID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : MAGUEYID,
+    "Name": "Pulque",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : PULQUEID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 398,
+    "Name": "Sherry",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : SHERRYID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 844,
+    "Name": "Shochu",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : SHOCHUID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : BARLYMALTID,
+    "Name": "Stout",
+    "Description": "Drink in moderation.",
+	  "ProduceID" : STOUTID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 406,
+    "Name": "Umeshu",
+    "Description": "A sweet wine made from plum.",
+	  "ProduceID" : UMESHUID,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 398,
+    "Name": "Vinegar",
+    "Description": "An aged fermented liquid used in many cooking recipes.",
+	  "ProduceID" : 419,
+	  "usePrefix": false,
+	  "useColor": false
+    }]
+}
