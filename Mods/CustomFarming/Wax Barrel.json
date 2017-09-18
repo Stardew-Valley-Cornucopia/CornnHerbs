@@ -1,0 +1,33 @@
+{
+   "Type": "CustomFarming.simpleMachine",
+   "Name": "Wax Barrel",
+   "Description": "A barrel for dipping candles or molding soap.",
+   "Tilesheet" : "WaxBarrel.png",
+   "TileIndex" : 0,
+   "WorkAnimationFrames" : 0,
+   "AnimationSpeed" : 0,
+   "CategoryName" : "Crafting",
+   "Materials" : [-80,-79,-75],
+   "RequieredStack" : 1,
+   "StarterMaterial" : 1097,
+   "StarterMaterialStack" : 5,
+   "Crafting" : "335 1 1097 5 388 50",
+   "Produce": {
+      "Name": "Soap",
+      "Description": "A scented bar of artisanal soap.",
+	  "usePrefix" : false,
+	  "useColor" : false,
+	  "ProduceID" : SOAPID,
+	  "Stack" : 1,
+	  "ProductionTime" : 360
+   },
+   "SpecialProduce" : 	[
+	  {
+	  "Material" : -80,
+    "Name": "Candle",
+    "Description": "A flower scented candle.",
+	  "ProduceID" : CANDLEID,
+	  "usePrefix": true,
+	  "useColor": false
+	  }]
+}
