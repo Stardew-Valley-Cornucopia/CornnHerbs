@@ -7,7 +7,7 @@
    "WorkAnimationFrames" : 0,
    "AnimationSpeed" : 0,
    "CategoryName" : "Crafting",
-   "Materials" : [927,928,246,340],
+   "Materials" : [927,928,246,340,830],
    "RequieredStack" : 1,
    "StarterMaterial" : 0,
    "StarterMaterialStack" : 0,
@@ -55,6 +55,13 @@
     "Name": "Beeswax",
     "Description": "Wax used to bind goods and make numerous products.",
 	  "ProduceID" : 1097,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 830,
+    "Name": "Tapioca",
+    "Description": "A gelatin-like substance that has a chewy texture.",
+	  "ProduceID" : TAPIOCAID,
 	  "usePrefix": false,
 	  "useColor": false
     }]
