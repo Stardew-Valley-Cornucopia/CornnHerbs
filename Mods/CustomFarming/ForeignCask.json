@@ -36,5 +36,12 @@
 	  "ProduceID" : NATTOID,
 	  "usePrefix": false,
 	  "useColor": false
+    },{
+	  "Material" : 926,
+    "Name": "Soy Sauce",
+    "Description": "SOY SAUCE DESCRIPTION.",
+	  "ProduceID" : SOYSAUCEID,
+	  "usePrefix": false,
+	  "useColor": false
     }]
 }
