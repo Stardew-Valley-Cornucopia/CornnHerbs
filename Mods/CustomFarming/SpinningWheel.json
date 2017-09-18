@@ -1,0 +1,47 @@
+{
+   "Type": "CustomFarming.simpleMachine",
+   "Name": "Spinning Wheel",
+   "Description": "A small spinning wheel that turns fiber into twine or cotton into thread.",
+   "Tilesheet" : "SpinningWheel.png",
+   "TileIndex" : 0,
+   "WorkAnimationFrames" : 0,
+   "AnimationSpeed" : 0,
+   "CategoryName" : "Crafting",
+   "Materials" : [336,836,771,440],
+   "RequieredStack" : 1,
+   "StarterMaterial" : 0,
+   "StarterMaterialStack" : 0,
+   "Crafting" : "771 20 388 30 726 1",
+   "Produce": {
+      "Name": "Thread",
+      "Description": "A spool of fine cotton thread.",
+	  "usePrefix" : false,
+	  "useColor" : false,
+	  "ProduceID" : 931,
+	  "Stack" : 1,
+	  "ProductionTime" : 180
+   },
+   "SpecialProduce" : 	[
+	  {
+	  "Material" : 336,
+    "Name": "Gold Thread",
+    "Description": "A spool of golden thread. It sparkles in the light.",
+	  "ProduceID" : GOLDTHREADID,
+	  "usePrefix": false,
+	  "useColor": false
+	  },{
+	  "Material" : 771,
+    "Name": "Twine",
+    "Description": "A spool of rough twine.",
+	  "ProduceID" : 965,
+	  "usePrefix": false,
+	  "useColor": false
+    },{
+	  "Material" : 440,
+    "Name": "Yarn",
+    "Description": "A ball of soft yarn.",
+	  "ProduceID" : YARNID,
+	  "usePrefix": false,
+	  "useColor": false
+    }]
+}
