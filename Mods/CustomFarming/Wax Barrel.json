@@ -29,5 +29,12 @@
 	  "ProduceID" : CANDLEID,
 	  "usePrefix": true,
 	  "useColor": false
+	  },{
+	  "Material" : -80,
+    "Name": "Soap",
+    "Description": "A flower scented bar of artisanal soap.",
+	  "ProduceID" : SOAPID,
+	  "usePrefix": true,
+	  "useColor": false
 	  }]
 }
