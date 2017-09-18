@@ -19,7 +19,7 @@
 	  "useColor" : false,
 	  "ProduceID" : 247,
 	  "Stack" : 1,
-	  "ProductionTime" : 
+	  "ProductionTime" : 0
    },
    "SpecialProduce" : 	[
 	  {
@@ -29,7 +29,6 @@
 	  "ProduceID" : 936,
 	  "usePrefix": false,
 	  "useColor": false
-	  "ProductionTime" : 2360
     },{
 	  "Material" : 88,
     "Name": "Coconut Oil",
@@ -37,7 +36,6 @@
 	  "ProduceID" : 937,
 	  "usePrefix": false,
 	  "useColor": false
-          "ProductionTime" : 60
     },{
 	  "Material" : 812,
     "Name": "Olive Oil",
@@ -45,7 +43,6 @@
 	  "ProduceID" : 938,
 	  "usePrefix": false,
 	  "useColor": false
-          "ProductionTime" : 60
     },{
 	  "Material" : 873,
     "Name": "Peanut Oil",
@@ -53,7 +50,6 @@
 	  "ProduceID" : 939,
 	  "usePrefix": false,
 	  "useColor": false
-          "ProductionTime" : 480
     },{
 	  "Material" : SESAMESEEDSID,
     "Name": "Sesame Oil",
