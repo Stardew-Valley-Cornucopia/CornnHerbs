@@ -54,5 +54,12 @@
 	  "usePrefix": false,
 	  "useColor": false
           "ProductionTime" : 480
+    },{
+	  "Material" : SESAMESEEDSID,
+    "Name": "Sesame Oil",
+    "Description": "A bottle of oil made from sesame seeds.",
+	  "ProduceID" : SESAMEOILID,
+	  "usePrefix": false,
+	  "useColor": false
     }]
 }
