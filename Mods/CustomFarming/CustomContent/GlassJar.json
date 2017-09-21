@@ -24,14 +24,14 @@
    "SpecialProduce" : 	[
 	  {
 	  "Material" : 257,
-    "Name": "Kombucha",
+    "Name": "Morel Kombucha",
     "Description": "A uniquely nutty tea-like drink made from fermented mushrooms.",
 	  "ProduceID" : 1121,
 	  "usePrefix": true,
 	  "useColor": false
     },{
 	  "Material" : 281,
-    "Name": "Kombucha",
+    "Name": "Chanterelle Kombucha",
     "Description": "A fruity, slightly peppery tea-like drink made from fermented mushrooms.",
 	  "ProduceID" : 1122,
 	  "usePrefix": true,
