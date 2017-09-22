@@ -1,7 +1,7 @@
 Current Release:
 MCM mail and villager likes (initial list complete)
 Add GiftTasteImplemented column to Google Doc to keep track
-Sprite: Still, Spinning Wheel, Foreign Cask, Enhanced Oil Maker
+Sprite: Still, Spinning Wheel
 Add where Tea Mod's recipes come from to spreadsheet/ensure it got ported.
 Full Sprite Crops: Vanilla
 
